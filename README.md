@@ -7,7 +7,7 @@ As the title says! recently, I get deep into special areas, and references becam
 
 ## Table of Content
 - [Mathematics](#mathematics)
-    - [Mathematician's Work & Career](#Mathematician's-Work-&-Career)
+    - [Mathematician's Work & Career](#mathematicians-work--career)
     - [Abstract Algebra](#abstract-algebra)
     - [Euclidean and Non-Euclidean Geometry](#Euclidean-and-Non-Euclidean-Geometry)
     - [Differential Geometry](#Differential-Geometry)
