@@ -15,7 +15,7 @@ As the title says! recently, I get deep into special areas, and references becam
 - [Theoretical Computer Science](#theoretical-computer-science)
 - [Cryptography](#cryptography)
 - [Artificial Intelligence](#artificial-intelligence)
-- [Algorithms and Data Structure](#Algorithms and Data Structure)
+- [Algorithms and Data Structure](#Algorithms-and-Data-Structure)
 - [C Programming Language](#C-programming-language)
 
 
