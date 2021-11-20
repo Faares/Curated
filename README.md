@@ -45,9 +45,13 @@ As the title says! recently, I get deep into special areas, and references becam
 ### Real Anaylsis
 - Tao, T. Analysis I.
 - Tao, T. Analysis II.
+- Beardon, A. Limits: A New Approach to Real Analysis. [Online](https://link.springer.com/book/10.1007/978-1-4612-0697-2)
 
 ### Complex Anaylsis
 - Needham, T. Visual Complex Analysis. 
+
+### Riemann Surfaces 
+- Beardon, A.  A Primer on Riemann Surfaces. [Online](https://archive.org/details/primeronriemanns0000bear)
 
 ### Measure Theory
 - Tao, T. An Introduction to Measure Theory. [Online](https://terrytao.wordpress.com/books/an-introduction-to-measure-theory/)
