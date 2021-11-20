@@ -11,10 +11,10 @@ As the title says! recently, I get deep into special areas, and references becam
     - [Abstract Algebra](#abstract-algebra)
     - [Euclidean and Non-Euclidean Geometry](#Euclidean-and-Non-Euclidean-Geometry)
     - [Differential Geometry](#Differential-Geometry)
-    - [Manifolds](#Manifolds)
     - [Mathematical Anaylsis](#mathematical-anaylsis)
     - [Real Anaylsis](#real-anaylsis)
     - [Complex Anaylsis](#complex-anaylsis)
+    - [Manifolds](#Manifolds)
     - [Riemann Surfaces](#Riemann-surfaces)
     - [Measure Theory](#Measure-Theory)
     - [Hilbert Space](#hilbert-space)
@@ -48,10 +48,6 @@ As the title says! recently, I get deep into special areas, and references becam
 ### Differential Geometry
 - *Abate, M. &amp; Tovena, F.* Curves and Surfaces.
 
-### Manifolds
-- *Thurston, William P.*  Geometry and Topology of Three-manifolds. [[Online](http://library.msri.org/books/gt3m/)]
-- **Paper -** *Tao, T.*  Ricci flow. [[PDF](https://terrytao.files.wordpress.com/2008/03/ricci.pdf)]
-
 ### Mathematical Anaylsis
 - *Ruden, W.* Principles of Mathematical Analysis. [[Online](https://web.math.ucsb.edu/~agboola/teaching/2021/winter/122A/rudin.pdf)]
 - *Ruden, W.* Real and Complex Analysis.
@@ -68,6 +64,10 @@ As the title says! recently, I get deep into special areas, and references becam
 ### Complex Anaylsis
 - *Needham, T.* Visual Complex Analysis. 
 - **Beautiful Paper -** *Velleman, D.* The Fundamental Theorem of Algebra: A Visual Approach. [[PDF](https://sites.math.washington.edu/~morrow/336_20/fta.pdf)]
+
+### Manifolds
+- *Thurston, William P.*  Geometry and Topology of Three-manifolds. [[Online](http://library.msri.org/books/gt3m/)]
+- **Paper -** *Tao, T.*  Ricci flow. [[PDF](https://terrytao.files.wordpress.com/2008/03/ricci.pdf)]
 
 ### Riemann Surfaces 
 - *Beardon, A.*  A Primer on Riemann Surfaces. [[Online](https://archive.org/details/primeronriemanns0000bear)]
