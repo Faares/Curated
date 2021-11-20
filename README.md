@@ -2,7 +2,10 @@
 As the title says! recently, I get deep into special areas, and references became more and more "dirty". So, here I'm setting the top-ranked and clear references, classified by the specialty.
 
 > This list is not for school students. usually, these references need prerequisites to understand.
-## Table of Conent
+
+- *Feel free to contribute!*
+
+## Table of Content
 - [Abstract Algebra](#abstract-algebra)
 - [Geometry](#geometry)
 - [Mathematical Anaylsis](#mathematical-anaylsis)
@@ -48,3 +51,6 @@ As the title says! recently, I get deep into special areas, and references becam
 
 ### C Programming Language
 - Kernighan, B. W., &amp; Ritchie, D. M. The C Programming Language.
+
+### Artificial Intelligence
+- Russle, S., &amp; Norving, P. Artificial Intelligence: A Modern Approach. [Online](http://aima.cs.berkeley.edu/)
