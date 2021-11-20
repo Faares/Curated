@@ -30,45 +30,45 @@ As the title says! recently, I get deep into special areas, and references becam
 
 ## Mathematics
 ### Mathematician's Work & Career
-- Pólya, G. How to Solve It.
-- Tao, T. Solving Mathematical Problems. [Online](https://terrytao.wordpress.com/books/solving-mathematical-problems/)
+- *Pólya, G.* How to Solve It.
+- *Tao, T.* Solving Mathematical Problems. [Online](https://terrytao.wordpress.com/books/solving-mathematical-problems/)
 > *Alan Beardon*, has two books [[1](http://services.cambridge.org/us/academic/subjects/mathematics/recreational-mathematics/creative-mathematics-gateway-research?site_view=desktop)],[[2](https://www.cambridge.org/core/books/mathematical-explorations/F926A2DFE3FEC8B34542EC598C8D7DE3)] I think it's good, but I cannot officially list it, since I didn't read it yet.
 
 ### Abstract Algebra
-- Fraleigh, John B.  A First Course in Abstract Algebra.
+- *Fraleigh, John B.* A First Course in Abstract Algebra.
 
 ### Euclidean and Non-Euclidean Geometry
-- Beardon, A. Algebra and Geometry.
+- *Beardon, A.* Algebra and Geometry.
 
 ### Differential Geometry
-- Abate, M. &amp; Tovena, F. Curves and Surfaces.
+- *Abate, M. &amp; Tovena, F.* Curves and Surfaces.
 
 ### Manifolds
 - *Thurston, William P.*  Geometry and Topology of Three-manifolds. [Online](http://library.msri.org/books/gt3m/)
 
 ### Mathematical Anaylsis
-- Ruden, W. Principles of Mathematical Analysis. [Online](https://web.math.ucsb.edu/~agboola/teaching/2021/winter/122A/rudin.pdf)
-- Ruden, W. Real and Complex Analysis.
+- *Ruden, W.* Principles of Mathematical Analysis. [Online](https://web.math.ucsb.edu/~agboola/teaching/2021/winter/122A/rudin.pdf)
+- *Ruden, W.* Real and Complex Analysis.
 
 ### Topology
-- Munkres, James R. Topology.
+- *Munkres, James R.* Topology.
 
 ### Real Anaylsis
-- Tao, T. Analysis I.
-- Tao, T. Analysis II.
-- Beardon, A. Limits: A New Approach to Real Analysis. [Online](https://link.springer.com/book/10.1007/978-1-4612-0697-2)
+- *Tao, T.* Analysis I.
+- *Tao, T.* Analysis II.
+- *Beardon, A.* Limits: A New Approach to Real Analysis. [Online](https://link.springer.com/book/10.1007/978-1-4612-0697-2)
 
 ### Complex Anaylsis
-- Needham, T. Visual Complex Analysis. 
+- *Needham, T.* Visual Complex Analysis. 
 
 ### Riemann Surfaces 
-- Beardon, A.  A Primer on Riemann Surfaces. [Online](https://archive.org/details/primeronriemanns0000bear)
+- *Beardon, A.*  A Primer on Riemann Surfaces. [Online](https://archive.org/details/primeronriemanns0000bear)
 
 ### Measure Theory
-- Tao, T. An Introduction to Measure Theory. [Online](https://terrytao.wordpress.com/books/an-introduction-to-measure-theory/)
+- *Tao, T.* An Introduction to Measure Theory. [Online](https://terrytao.wordpress.com/books/an-introduction-to-measure-theory/)
 
 ### Hilbert Space
-- Debnath, L., &amp; Mikusinski, P. Introduction to Hilbert Spaces with Applications. 
+- *Debnath, L., &amp; Mikusinski, P.* Introduction to Hilbert Spaces with Applications. 
 
 
 ## Computer Science
