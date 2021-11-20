@@ -1,10 +1,15 @@
 # Curated: The List of Clear Knowledge.
 As the title says! recently, I get deep into special areas, and references became more and more "dirty". So, here I'm setting the top-ranked and clear references. Classified by specialty.
 
-> This list is not for school students. usually, these references need prerequisites to understand.
+Important notes:
+* The list contains resources written in non-English languages. You can figure it out by **in LANG** before it. 
+* This list is not for school students! usually, these references need prerequisites to understand.
 
-- *Feel free to contribute!*
+## Contribution
+Feel free to send PR. Here what we need in case you want to know:
+* - [ ] Prerequisite road map.
 
+---
 ## Table of Content
 - [Mathematics](#mathematics)
     - [Mathematician's Work & Career](#mathematicians-work--career)
