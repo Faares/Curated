@@ -34,7 +34,7 @@ As the title says! recently, I get deep into special areas, and references becam
 ### Mathematician's Work & Career
 - *Pólya, G.* How to Solve It.
 - *Tao, T.* Solving Mathematical Problems. [[Online](https://terrytao.wordpress.com/books/solving-mathematical-problems/)]
-- **Paper - ** *Tao, T.* What is Good Mathemtatics?  [[PDF](https://arxiv.org/abs/math/0702396)]
+- **Paper -** *Tao, T.* What is Good Mathemtatics?  [[PDF](https://arxiv.org/abs/math/0702396)]
 > *Alan Beardon*, has two books [[1](http://services.cambridge.org/us/academic/subjects/mathematics/recreational-mathematics/creative-mathematics-gateway-research?site_view=desktop)],[[2](https://www.cambridge.org/core/books/mathematical-explorations/F926A2DFE3FEC8B34542EC598C8D7DE3)] I think it's good, but I cannot officially list it, since I didn't read it yet.
 
 ### Abstract Algebra
