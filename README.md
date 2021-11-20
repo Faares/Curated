@@ -18,6 +18,7 @@ As the title says! recently, I get deep into special areas, and references becam
     - [Riemann Surfaces](#Riemann-surfaces)
     - [Measure Theory](#Measure-Theory)
     - [Hilbert Space](#hilbert-space)
+    - [Knot Theory](#Knot-Theory)
 - [Computer Science](#computer-science)
     - [Theoretical Computer Science](#theoretical-computer-science)
     - [Cryptography](#cryptography)
