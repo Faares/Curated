@@ -30,6 +30,8 @@ As the title says! recently, I get deep into special areas, and references becam
 ### Geometry
 - Beardon, A. Algebra and Geometry.
 
+### Graph Theory
+- 
 ### Mathematical Anaylsis
 - Ruden, W. Principles of Mathematical Analysis. [Online](https://web.math.ucsb.edu/~agboola/teaching/2021/winter/122A/rudin.pdf)
 - Ruden, W. Real and Complex Analysis.
@@ -53,6 +55,7 @@ As the title says! recently, I get deep into special areas, and references becam
 - Sipser, M. Introduction to The Theory of Computation.
 - Arora, S., &amp; Barak, B. Computational Complexity: A Modern Approach. [Online](http://theory.cs.princeton.edu/complexity/)
 - Barak, B. Introduction to Theoretical Computer Science. [Online](https://introtcs.org)
+- Wigderson, Avi. Mathematics and Computation: A Theory Revolutionizing Technology and Science. [Online](https://www.math.ias.edu/avi/book)
 
 ### Cryptography
 - Goldreich, O. Foundations of Cryptography: A Primer. [Online](https://www.wisdom.weizmann.ac.il/~oded/foc-sur04.html)
