@@ -53,4 +53,4 @@ As the title says! recently, I get deep into special areas, and references becam
 - Kernighan, B. W., &amp; Ritchie, D. M. The C Programming Language.
 
 ### Artificial Intelligence
-- Russle, S., &amp; Norving, P. Artificial Intelligence: A Modern Approach. [Online](http://aima.cs.berkeley.edu/)
+- Russell, S., &amp; Norving, P. Artificial Intelligence: A Modern Approach. [Online](http://aima.cs.berkeley.edu/)
