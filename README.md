@@ -8,7 +8,8 @@ As the title says! recently, I get deep into special areas, and references becam
 ## Table of Content
 - [Mathematics](#mathematics)
     - [Abstract Algebra](#abstract-algebra)
-    - [Geometry](#geometry)
+    - [Euclidean and Non-Euclidean Geometry](#Euclidean-and-Non-Euclidean-Geometry)
+    - [Differential Geometry](#Differential-Geometry)
     - [Mathematical Anaylsis](#mathematical-anaylsis)
     - [Real Anaylsis](#real-anaylsis)
     - [Complex Anaylsis](#complex-anaylsis)
@@ -27,8 +28,11 @@ As the title says! recently, I get deep into special areas, and references becam
 ### Abstract Algebra
 - Fraleigh, John B.  A First Course in Abstract Algebra.
 
-### Geometry
+### Euclidean and Non-Euclidean Geometry
 - Beardon, A. Algebra and Geometry.
+
+### Differential Geometry
+- Abate, M.; Tovena, F.: Curves and surfaces.
 
 ### Mathematical Anaylsis
 - Ruden, W. Principles of Mathematical Analysis. [Online](https://web.math.ucsb.edu/~agboola/teaching/2021/winter/122A/rudin.pdf)
