@@ -1,4 +1,4 @@
-# Curated - The List of Clear Knowledge
+# Curated: The List of Clear Knowledge
 As the title says! recently, I get deep into special areas, and references became more and more "dirty". So, here I'm setting the top-ranked and clear references. Classified by specialty.
 
 > This list is not for school students. usually, these references need prerequisites to understand.
