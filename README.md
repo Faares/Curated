@@ -30,8 +30,6 @@ As the title says! recently, I get deep into special areas, and references becam
 ### Geometry
 - Beardon, A. Algebra and Geometry.
 
-### Graph Theory
-- 
 ### Mathematical Anaylsis
 - Ruden, W. Principles of Mathematical Analysis. [Online](https://web.math.ucsb.edu/~agboola/teaching/2021/winter/122A/rudin.pdf)
 - Ruden, W. Real and Complex Analysis.
