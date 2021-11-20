@@ -58,7 +58,7 @@ As the title says! recently, I get deep into special areas, and references becam
 - Russell, S., &amp; Norving, P. Artificial Intelligence: A Modern Approach. [Online](http://aima.cs.berkeley.edu/)
 
 ### Algorithms and Data Structure
-- Knuth, Donald. The Art of Computer Programming. *No one complete it, either Donald himself!!*
+- Knuth, D. The Art of Computer Programming. *No one complete it, either Donald himself!!*
 
 ### C Programming Language
 - Kernighan, B. W., &amp; Ritchie, D. M. The C Programming Language.
