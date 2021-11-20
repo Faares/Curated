@@ -24,7 +24,7 @@ As the title says! recently, I get deep into special areas, and references becam
     - [Artificial Intelligence](#artificial-intelligence)
     - [Algorithms and Data Structures](#Algorithms-and-Data-Structures)
     - [C Programming Language](#C-programming-language)
-- [Statistics][#statistics]
+- [Statistics](#statistics)
     - [Causal Inference](#causal-inference)
 
 ---
