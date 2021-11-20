@@ -45,7 +45,7 @@ As the title says! recently, I get deep into special areas, and references becam
 
 ### Theoretical Computer Science
 - Sipser, M. Introduction to The Theory of Computation.
-- Arora, S., &amp; Barak, B. Computational complexity: A modern approach. [Online](http://theory.cs.princeton.edu/complexity/)
+- Arora, S., &amp; Barak, B. Computational Complexity: A Modern Approach. [Online](http://theory.cs.princeton.edu/complexity/)
 - Barak, B. Introduction to Theoretical Computer Science. [Online](https://introtcs.org)
 
 ### Cryptography
