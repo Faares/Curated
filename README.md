@@ -56,7 +56,10 @@ As the title says! recently, I get deep into special areas, and references becam
 ### Topology
 - *Munkres, James R.* Topology.
 - *Khatchatourian I.* MAT327 • TOPOLOGY. [[Online](http://www.math.toronto.edu/ivan/mat327/index.html?resources)]
+- *AlYasry, A.* Lectures in Advance Topology. [[Online](https://drive.google.com/file/d/1Mlj1w-ifPTVuQNsaCmmmTvrFmfnowHjK/view)]
 - **Paper - In Arabic -** *AlYasry, A.* Simple Explanations in Topology and Ideas of High Dimensions . [[Online](https://drive.google.com/file/d/1sF0-I_K45oYoRiBibhCcPX_Rs6DlndDi/view)]
+
+### Knot Theory
 
 ### Homology
 - **Paper - In Arabic -** *AlYasry, A.* Homology. [[Online](https://drive.google.com/file/d/1x2tt0b_-q4ekhNJcFccwE_mZG40Cvawg/view)]
