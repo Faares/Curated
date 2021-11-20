@@ -6,22 +6,24 @@ As the title says! recently, I get deep into special areas, and references becam
 - *Feel free to contribute!*
 
 ## Table of Content
-- [Abstract Algebra](#abstract-algebra)
-- [Geometry](#geometry)
-- [Mathematical Anaylsis](#mathematical-anaylsis)
-- [Real Anaylsis](#real-anaylsis)
-- [Complex Anaylsis](#complex-anaylsis)
-- [Hilbert Space](#hilbert-space)
-- [Theoretical Computer Science](#theoretical-computer-science)
-- [Cryptography](#cryptography)
-- [Artificial Intelligence](#artificial-intelligence)
-- [Algorithms and Data Structure](#Algorithms-and-Data-Structure)
-- [C Programming Language](#C-programming-language)
+- [Mathematics](#mathematics)
+    - [Abstract Algebra](#abstract-algebra)
+    - [Geometry](#geometry)
+    - [Mathematical Anaylsis](#mathematical-anaylsis)
+    - [Real Anaylsis](#real-anaylsis)
+    - [Complex Anaylsis](#complex-anaylsis)
+    - [Hilbert Space](#hilbert-space)
+- [Computer Science](#computer-science)
+    - [Theoretical Computer Science](#theoretical-computer-science)
+    - [Cryptography](#cryptography)
+    - [Artificial Intelligence](#artificial-intelligence)
+    - [Algorithms and Data Structures](#Algorithms-and-Data-Structures)
+    - [C Programming Language](#C-programming-language)
 
 
 ---
 
-
+## Mathematics
 ### Abstract Algebra
 - Fraleigh, John B.  A First Course in Abstract Algebra.
 
@@ -45,6 +47,7 @@ As the title says! recently, I get deep into special areas, and references becam
 ### Hilbert Space
 - Debnath, L., &amp; Mikusinski, P. Introduction to Hilbert Spaces with Applications. 
 
+## Computer Science
 ### Theoretical Computer Science
 - Sipser, M. Introduction to The Theory of Computation.
 - Arora, S., &amp; Barak, B. Computational Complexity: A Modern Approach. [Online](http://theory.cs.princeton.edu/complexity/)
@@ -57,7 +60,7 @@ As the title says! recently, I get deep into special areas, and references becam
 ### Artificial Intelligence
 - Russell, S., &amp; Norving, P. Artificial Intelligence: A Modern Approach. [Online](http://aima.cs.berkeley.edu/)
 
-### Algorithms and Data Structure
+### Algorithms and Data Structures
 - Knuth, D. The Art of Computer Programming. *No one complete it, either Donald himself!!*
 
 ### C Programming Language
