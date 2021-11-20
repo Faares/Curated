@@ -96,4 +96,4 @@ As the title says! recently, I get deep into special areas, and references becam
 ## Statistics
 
 ### Causal Inference
-- Pearl, J. Causal Inference in Statistics: A Primer. [[Online](http://bayes.cs.ucla.edu/PRIMER/)]
+- *Pearl, J.* Causal Inference in Statistics: A Primer. [[Online](http://bayes.cs.ucla.edu/PRIMER/)]
