@@ -24,7 +24,8 @@ As the title says! recently, I get deep into special areas, and references becam
     - [Artificial Intelligence](#artificial-intelligence)
     - [Algorithms and Data Structures](#Algorithms-and-Data-Structures)
     - [C Programming Language](#C-programming-language)
-
+- [Statistics][#statistics]
+    - [Causal Inference](#causal-inference)
 
 ---
 
@@ -92,3 +93,7 @@ As the title says! recently, I get deep into special areas, and references becam
 ### C Programming Language
 - *Kernighan, B. W., &amp; Ritchie, D. M.* The C Programming Language.
 
+## Statistics
+
+### Causal Inference
+- Pearl, J. Causal Inference in Statistics: A Primer. [[Online](http://bayes.cs.ucla.edu/PRIMER/)]
