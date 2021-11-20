@@ -13,7 +13,7 @@ As the title says! recently, I get deep into special areas, and references becam
     - [Mathematical Anaylsis](#mathematical-anaylsis)
     - [Real Anaylsis](#real-anaylsis)
     - [Complex Anaylsis](#complex-anaylsis)
-    - [Measure Thoery](#measure-theory)
+    - [Measure Theory](#Measure-Theory)
     - [Hilbert Space](#hilbert-space)
 - [Computer Science](#computer-science)
     - [Theoretical Computer Science](#theoretical-computer-science)
@@ -49,7 +49,7 @@ As the title says! recently, I get deep into special areas, and references becam
 ### Complex Anaylsis
 - Needham, T. Visual Complex Analysis. 
 
-### Measure Thoery
+### Measure Theory
 - Tao, T. An Introduction to Measure Theory. [Online](https://terrytao.wordpress.com/books/an-introduction-to-measure-theory/)
 
 ### Hilbert Space
