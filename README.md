@@ -87,7 +87,7 @@ As the title says! recently, I get deep into special areas, and references becam
 - *Barak, B.* Introduction to Theoretical Computer Science. [[Online](https://introtcs.org)]
 - *Wigderson, A.* Mathematics and Computation: A Theory Revolutionizing Technology and Science. [[Online](https://www.math.ias.edu/avi/book)]
 - *Hopcroft, J.* Introduction to Automata Theory, Languages, and Computation. [[Online](http://ce.sharif.edu/courses/94-95/1/ce414-2/resources/root/Text%20Books/Automata/John%20E.%20Hopcroft,%20Rajeev%20Motwani,%20Jeffrey%20D.%20Ullman-Introduction%20to%20Automata%20Theory,%20Languages,%20and%20Computations-Prentice%20Hall%20(2006).pdf)]
-- *Shannon, C.E.* A Mathematical Theory of Communication. [[Online](https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)]
+- **Paper -** *Shannon, C.E.* A Mathematical Theory of Communication. [[Online](https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)]
 
 ### Cryptography
 - *Goldreich, O.* Foundations of Cryptography: A Primer. [[Online](https://www.wisdom.weizmann.ac.il/~oded/foc-sur04.html)]
