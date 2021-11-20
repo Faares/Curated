@@ -32,7 +32,7 @@ As the title says! recently, I get deep into special areas, and references becam
 - Beardon, A. Algebra and Geometry.
 
 ### Differential Geometry
-- Abate, M. &amp; Tovena, F. Curves and surfaces.
+- Abate, M. &amp; Tovena, F. Curves and Surfaces.
 
 ### Mathematical Anaylsis
 - Ruden, W. Principles of Mathematical Analysis. [Online](https://web.math.ucsb.edu/~agboola/teaching/2021/winter/122A/rudin.pdf)
