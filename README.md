@@ -62,6 +62,7 @@ As the title says! recently, I get deep into special areas, and references becam
 
 ### Complex Anaylsis
 - *Needham, T.* Visual Complex Analysis. 
+- **Beautiful Paper -** *Velleman, D.* The Fundamental Theorem of Algebra: A Visual Approach. [[PDF](https://www.google.com/search?channel=fs&client=ubuntu&q=The+Fundamental+Theorem+of+algebra+a+visual+approach)]
 
 ### Riemann Surfaces 
 - *Beardon, A.*  A Primer on Riemann Surfaces. [[Online](https://archive.org/details/primeronriemanns0000bear)]
