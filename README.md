@@ -44,7 +44,7 @@ As the title says! recently, I get deep into special areas, and references becam
 - Abate, M. &amp; Tovena, F. Curves and Surfaces.
 
 ### Manifolds
-- Thurston, William P.  Geometry and Topology of Three-manifolds. [Online](http://library.msri.org/books/gt3m/)
+- *Thurston, William P.*  Geometry and Topology of Three-manifolds. [Online](http://library.msri.org/books/gt3m/)
 
 ### Mathematical Anaylsis
 - Ruden, W. Principles of Mathematical Analysis. [Online](https://web.math.ucsb.edu/~agboola/teaching/2021/winter/122A/rudin.pdf)
