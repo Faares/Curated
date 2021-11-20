@@ -11,6 +11,8 @@ As the title says! recently, I get deep into special areas, and references becam
     - [Abstract Algebra](#abstract-algebra)
     - [Euclidean and Non-Euclidean Geometry](#Euclidean-and-Non-Euclidean-Geometry)
     - [Differential Geometry](#Differential-Geometry)
+    - [Topology][#topology]
+    - [Knot Theory](#Knot-Theory)
     - [Mathematical Anaylsis](#mathematical-anaylsis)
     - [Real Anaylsis](#real-anaylsis)
     - [Complex Anaylsis](#complex-anaylsis)
@@ -18,7 +20,6 @@ As the title says! recently, I get deep into special areas, and references becam
     - [Riemann Surfaces](#Riemann-surfaces)
     - [Measure Theory](#Measure-Theory)
     - [Hilbert Space](#hilbert-space)
-    - [Knot Theory](#Knot-Theory)
 - [Computer Science](#computer-science)
     - [Theoretical Computer Science](#theoretical-computer-science)
     - [Cryptography](#cryptography)
