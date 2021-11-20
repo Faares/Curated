@@ -48,6 +48,9 @@ As the title says! recently, I get deep into special areas, and references becam
 ### Complex Anaylsis
 - Needham, T. Visual Complex Analysis. 
 
+### Measure Thoery
+- Tao, T. An Introduction to Measure Theory. [Online](https://terrytao.wordpress.com/books/an-introduction-to-measure-theory/)
+
 ### Hilbert Space
 - Debnath, L., &amp; Mikusinski, P. Introduction to Hilbert Spaces with Applications. 
 
