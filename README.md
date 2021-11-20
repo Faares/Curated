@@ -24,6 +24,7 @@ As the title says! recently, I get deep into special areas, and references becam
     - [Artificial Intelligence](#artificial-intelligence)
     - [Algorithms and Data Structures](#Algorithms-and-Data-Structures)
     - [C Programming Language](#C-programming-language)
+    - [Compilers](#Compilers)
 - [Statistics](#statistics)
     - [Causal Inference](#causal-inference)
 
@@ -94,7 +95,7 @@ As the title says! recently, I get deep into special areas, and references becam
 - *Kernighan, B. W., &amp; Ritchie, D. M.* The C Programming Language.
 
 ### Compilers
-- **[Paper]** Thompson, Reflections on Trusting Trust. [[PDF](https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf)]
+- **Paper -** Thompson, Reflections on Trusting Trust. [[PDF](https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf)]
 
 ## Statistics
 
