@@ -86,7 +86,7 @@ As the title says! recently, I get deep into special areas, and references becam
 - *Arora, S., &amp; Barak, B.* Computational Complexity: A Modern Approach. [[Online](http://theory.cs.princeton.edu/complexity/)]
 - *Barak, B.* Introduction to Theoretical Computer Science. [[Online](https://introtcs.org)]
 - *Wigderson, A.* Mathematics and Computation: A Theory Revolutionizing Technology and Science. [[Online](https://www.math.ias.edu/avi/book)]
-
+- *Hopcroft, J.* Introduction to Automata Theory, Languages, and Computation. [[Online]()]
 ### Cryptography
 - *Goldreich, O.* Foundations of Cryptography: A Primer. [[Online](https://www.wisdom.weizmann.ac.il/~oded/foc-sur04.html)]
 
