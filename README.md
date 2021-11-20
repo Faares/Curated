@@ -95,7 +95,7 @@ As the title says! recently, I get deep into special areas, and references becam
 - *Kernighan, B. W., &amp; Ritchie, D. M.* The C Programming Language.
 
 ### Compilers
-- **Paper -** *Thompson, K.* Reflections on Trusting Trust. [[PDF](https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf)]
+- **Essential Paper -** *Thompson, K.* Reflections on Trusting Trust. [[PDF](https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf)]
 
 ## Statistics
 
