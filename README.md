@@ -72,22 +72,23 @@ As the title says! recently, I get deep into special areas, and references becam
 
 
 ## Computer Science
+
 ### Theoretical Computer Science
-- Sipser, M. Introduction to The Theory of Computation.
-- Arora, S., &amp; Barak, B. Computational Complexity: A Modern Approach. [Online](http://theory.cs.princeton.edu/complexity/)
-- Barak, B. Introduction to Theoretical Computer Science. [Online](https://introtcs.org)
-- Wigderson, Avi. Mathematics and Computation: A Theory Revolutionizing Technology and Science. [Online](https://www.math.ias.edu/avi/book)
+- *Sipser, M.* Introduction to The Theory of Computation.
+- *Arora, S., &amp; Barak, B.* Computational Complexity: A Modern Approach. [Online](http://theory.cs.princeton.edu/complexity/)
+- *Barak, B.* Introduction to Theoretical Computer Science. [Online](https://introtcs.org)
+- *Wigderson, A.* Mathematics and Computation: A Theory Revolutionizing Technology and Science. [Online](https://www.math.ias.edu/avi/book)
 
 ### Cryptography
-- Goldreich, O. Foundations of Cryptography: A Primer. [Online](https://www.wisdom.weizmann.ac.il/~oded/foc-sur04.html)
+- *Goldreich, O.* Foundations of Cryptography: A Primer. [Online](https://www.wisdom.weizmann.ac.il/~oded/foc-sur04.html)
 
 
 ### Artificial Intelligence
-- Russell, S., &amp; Norving, P. Artificial Intelligence: A Modern Approach. [Online](http://aima.cs.berkeley.edu/)
+- *Russell, S., &amp; Norving, P.* Artificial Intelligence: A Modern Approach. [Online](http://aima.cs.berkeley.edu/)
 
 ### Algorithms and Data Structures
-- Knuth, D. The Art of Computer Programming. *No one complete it, either Donald himself!!*
+- *Knuth, D.* The Art of Computer Programming. *No one complete it, either Donald himself!!*
 
 ### C Programming Language
-- Kernighan, B. W., &amp; Ritchie, D. M. The C Programming Language.
+- *Kernighan, B. W., &amp; Ritchie, D. M.* The C Programming Language.
 
