@@ -14,6 +14,8 @@ As the title says! recently, I get deep into special areas, and references becam
 - [Hilbert Space](#hilbert-space)
 - [Theoretical Computer Science](#theoretical-computer-science)
 - [Cryptography](#cryptography)
+- [Artificial Intelligence](#artificial-intelligence)
+- [Algorithms and Data Structure](#Algorithms and Data Structure)
 - [C Programming Language](#C-programming-language)
 
 
@@ -51,8 +53,13 @@ As the title says! recently, I get deep into special areas, and references becam
 ### Cryptography
 - Goldreich, O. Foundations of Cryptography: A Primer. [Online](https://www.wisdom.weizmann.ac.il/~oded/foc-sur04.html)
 
-### C Programming Language
-- Kernighan, B. W., &amp; Ritchie, D. M. The C Programming Language.
 
 ### Artificial Intelligence
 - Russell, S., &amp; Norving, P. Artificial Intelligence: A Modern Approach. [Online](http://aima.cs.berkeley.edu/)
+
+### Algorithms and Data Structure
+- Knuth, Donald. The Art of Computer Programming. *No one complete it, either Donald himself!!*
+
+### C Programming Language
+- Kernighan, B. W., &amp; Ritchie, D. M. The C Programming Language.
+
