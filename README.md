@@ -11,7 +11,7 @@ As the title says! recently, I get deep into special areas, and references becam
     - [Abstract Algebra](#abstract-algebra)
     - [Euclidean and Non-Euclidean Geometry](#Euclidean-and-Non-Euclidean-Geometry)
     - [Differential Geometry](#Differential-Geometry)
-    - [Topology][#topology]
+    - [Topology](#topology)
     - [Knot Theory](#Knot-Theory)
     - [Mathematical Anaylsis](#mathematical-anaylsis)
     - [Real Anaylsis](#real-anaylsis)
