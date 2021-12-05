@@ -56,7 +56,7 @@ Feel free to send PR. Here what we need in case you want to know:
 ### Differential Geometry
 - *Abate, M. &amp; Tovena, F.* Curves and Surfaces.
 
-### Mathematical Anaylsis
+### Mathematical Analysis
 - *Ruden, W.* Principles of Mathematical Analysis. [[Online](https://web.math.ucsb.edu/~agboola/teaching/2021/winter/122A/rudin.pdf)]
 - *Ruden, W.* Real and Complex Analysis.
 
@@ -74,13 +74,13 @@ Feel free to send PR. Here what we need in case you want to know:
 - **Paper - In Arabic -** *AlYasry, A.* Homology. [[Online](https://drive.google.com/file/d/1x2tt0b_-q4ekhNJcFccwE_mZG40Cvawg/view)]
 
 
-### Real Anaylsis
+### Real Analysis
 - *Tao, T.* Analysis I.
 - *Tao, T.* Analysis II.
 - *Beardon, A.* Limits: A New Approach to Real Analysis. [[Online](https://link.springer.com/book/10.1007/978-1-4612-0697-2)]
 - **Paper -** *Tao, T.* Compactness and Compactification. [[PDF](https://www.math.ucla.edu/~tao/preprints/compactness.pdf)]
 
-### Complex Anaylsis
+### Complex Analysis
 - *Needham, T.* Visual Complex Analysis. 
 - **Beautiful Paper -** *Velleman, D.* The Fundamental Theorem of Algebra: A Visual Approach. [[PDF](https://sites.math.washington.edu/~morrow/336_20/fta.pdf)]
 
