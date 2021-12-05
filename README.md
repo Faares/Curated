@@ -18,9 +18,9 @@ Feel free to send PR. Here what we need in case you want to know:
     - [Differential Geometry](#Differential-Geometry)
     - [Topology](#topology)
     - [Knot Theory](#Knot-Theory)
-    - [Mathematical Anaylsis](#mathematical-anaylsis)
-    - [Real Anaylsis](#real-anaylsis)
-    - [Complex Anaylsis](#complex-anaylsis)
+    - [Mathematical Analysis](#mathematical-Analysis)
+    - [Real Analysis](#real-Analysis
+    - [Complex Analysis](#complex-Analysis)
     - [Manifolds](#Manifolds)
     - [Riemann Surfaces](#Riemann-surfaces)
     - [Measure Theory](#Measure-Theory)
