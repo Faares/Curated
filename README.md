@@ -11,29 +11,35 @@ Feel free to send PR. Here what we need in case you want to know:
 
 ---
 ## Table of Content
-- [Mathematics](#mathematics)
+- [Curated: The List of Clear Knowledge.](#curated-the-list-of-clear-knowledge)
+  - [Contribution](#contribution)
+  - [Table of Content](#table-of-content)
+  - [Mathematics](#mathematics)
     - [Mathematician's Work & Career](#mathematicians-work--career)
     - [Abstract Algebra](#abstract-algebra)
-    - [Euclidean and Non-Euclidean Geometry](#Euclidean-and-Non-Euclidean-Geometry)
-    - [Differential Geometry](#Differential-Geometry)
+    - [Euclidean and Non-Euclidean Geometry](#euclidean-and-non-euclidean-geometry)
+    - [Differential Geometry](#differential-geometry)
+    - [Mathematical Analysis](#mathematical-analysis)
     - [Topology](#topology)
-    - [Knot Theory](#Knot-Theory)
-    - [Mathematical Analysis](#mathematical-Analysis)
-    - [Real Analysis](#real-Analysis)
-    - [Complex Analysis](#complex-Analysis)
-    - [Manifolds](#Manifolds)
-    - [Riemann Surfaces](#Riemann-surfaces)
-    - [Measure Theory](#Measure-Theory)
+    - [Knot Theory](#knot-theory)
+    - [Homology](#homology)
+    - [Real Analysis](#real-analysis)
+    - [Complex Analysis](#complex-analysis)
+    - [Manifolds](#manifolds)
+    - [Riemann Surfaces](#riemann-surfaces)
+    - [Measure Theory](#measure-theory)
     - [Hilbert Space](#hilbert-space)
-- [Computer Science](#computer-science)
+  - [Computer Science](#computer-science)
     - [Theoretical Computer Science](#theoretical-computer-science)
     - [Cryptography](#cryptography)
     - [Artificial Intelligence](#artificial-intelligence)
-    - [Algorithms and Data Structures](#Algorithms-and-Data-Structures)
-    - [C Programming Language](#C-programming-language)
-    - [Compilers](#Compilers)
-- [Statistics](#statistics)
+    - [Algorithms and Data Structures](#algorithms-and-data-structures)
+    - [C Programming Language](#c-programming-language)
+    - [Compilers](#compilers)
+  - [Statistics](#statistics)
     - [Causal Inference](#causal-inference)
+  - [Translations](#translations)
+    - [Mathematical Subjects](#mathematical-subjects)
 
 ---
 
@@ -128,3 +134,11 @@ Feel free to send PR. Here what we need in case you want to know:
 
 ### Causal Inference
 - *Pearl, J.* Causal Inference in Statistics: A Primer. [[Online](http://bayes.cs.ucla.edu/PRIMER/)]
+
+
+## Translations
+
+### Mathematical Subjects
+- كانتور، وصراعه من أجل الأعداد العابرة للمُنتهي. ترجمة د. عمران دلول. [[على الانترنت](https://drive.google.com/file/d/190woKPPskLJjfE8lxyVdEUJ_B7lqbFbg/view)]
+- كانتور واللانهاية. ترجمة د.عمران دلول. [[على الانترنت](https://drive.google.com/file/d/15MNRuQn93TL07FZYlL_6Um1bDZrhBU1P/view)]
+- الاستقراء العابر للمُنتهي، مدخل بسيط. ترجمة د.عمران دلول. [[على الانترنت](https://drive.google.com/file/d/1A9txo4NjI12BIE8zcw7DIHkb_rJU-ezP/view)]
