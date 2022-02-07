@@ -68,6 +68,7 @@ Feel free to send PR. Here what we need in case you want to know:
 
 ### Topology
 - *Munkres, James R.* Topology.
+- *Hatcher, Allen* Notes on Introductory Point-Set Topology. [[Online](http://pi.math.cornell.edu/~hatcher/Top/Topdownloads.html)]
 - *Khatchatourian I.* MAT327 • TOPOLOGY. [[Online](http://www.math.toronto.edu/ivan/mat327/index.html?resources)]
 - *AlYasry, A.* Lectures in Advance Topology. [[Online](https://drive.google.com/file/d/1Mlj1w-ifPTVuQNsaCmmmTvrFmfnowHjK/view)]
 - **Paper - In Arabic -** *AlYasry, A.* Simple Explanations in Topology and Ideas of High Dimensions . [[Online](https://drive.google.com/file/d/1sF0-I_K45oYoRiBibhCcPX_Rs6DlndDi/view)]
