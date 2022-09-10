@@ -50,7 +50,7 @@ Feel free to send PR. Here what we need in case you want to know:
 - **Paper -** *Tao, T.* What is Good Mathemtatics?  [[PDF](https://arxiv.org/abs/math/0702396)]
 - **Paper -** *Thurston, William P.* On Proof and Progress in Mathematics.  [[PDF](https://arxiv.org/abs/math/9404236)]
 
-> *Alan Beardon*, has two books [[1](http://services.cambridge.org/us/academic/subjects/mathematics/recreational-mathematics/creative-mathematics-gateway-research?site_view=desktop)],[[2](https://www.cambridge.org/core/books/mathematical-explorations/F926A2DFE3FEC8B34542EC598C8D7DE3)] I think it's good, but I cannot officially list it, since I didn't read it yet.
+> *Alan Beardon*, has two books [[1](http://services.cambridge.org/us/academic/subjects/mathematics/recreational-mathematics/creative-mathematics-gateway-research?site_view=desktop)],[[2](https://www.cambridge.org/core/books/mathematical-explorations/F926A2DFE3FEC8B34542EC598C8D7DE3)] I think it's good, but I cannot officially list it, since I didn't read them yet.
 
 ### Abstract Algebra
 - *Fraleigh, John B.* A First Course in Abstract Algebra.
