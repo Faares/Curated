@@ -86,7 +86,7 @@ Feel free to send PR. Here what we need in case you want to know:
 - *Tao, T.* Analysis II.
 - *Beardon, A.* Limits: A New Approach to Real Analysis. [[Online](https://link.springer.com/book/10.1007/978-1-4612-0697-2)]
 - **Paper -** *Tao, T.* Compactness and Compactification. [[PDF](https://www.math.ucla.edu/~tao/preprints/compactness.pdf)]
-- **Paper -** *Raman-Sundstrom, M.* A pedagogical history of compactness. [[PDF](https://arxiv.org/pdf/1006.4131.pdf)]
+- **Paper -** *Raman-Sundstrom, M.* A Pedagogical History of Compactness. [[PDF](https://arxiv.org/pdf/1006.4131.pdf)]
 
 ### Complex Analysis
 - *Needham, T.* Visual Complex Analysis. 
