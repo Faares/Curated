@@ -36,6 +36,7 @@ Feel free to send PR. Here is what we need in case you want to know:
     - [Algorithms and Data Structures](#algorithms-and-data-structures)
     - [C Programming Language](#c-programming-language)
     - [Compilers](#compilers)
+    - [Surveys](#surveys)
   - [Statistics](#statistics)
     - [Causal Inference](#causal-inference)
   - [Translations](#translations)
@@ -95,6 +96,10 @@ Feel free to send PR. Here is what we need in case you want to know:
 ### Manifolds
 - *Thurston, William P.*  Geometry and Topology of Three-manifolds. [[Online](http://library.msri.org/books/gt3m/)]
 - **Paper -** *Tao, T.*  Ricci flow. [[PDF](https://terrytao.files.wordpress.com/2008/03/ricci.pdf)]
+- *Knopf, D., &amp; Chow, B.*  The Ricci Flow: An Introduction. [[PDF](https://www.ams.org/books/surv/110/surv110-endmatter.pdf)][[Online](https://www.ams.org/books/surv/110)]
+- *Various Authors.*  The Ricci Flow: Techniques and Applications: Part I: Geometric Aspects. [[PDF](https://www.ams.org/books/surv/135/surv135-endmatter.pdf)][[Online](https://www.ams.org/books/surv/135/)]
+- *Various Authors.*  The Ricci Flow: Techniques and Applications: Part II: Analytic Aspects. [[PDF](https://www.ams.org/books/surv/144/surv144-endmatter.pdf)][[Online](https://www.ams.org/books/surv/144/)]
+- *Various Authors.*  The Ricci Flow: Techniques and Applications: Part III: Geometric-Analytic Aspects. [[PDF](https://www.ams.org/books/surv/163/surv163-endmatter.pdf)][[Online](https://www.ams.org/books/surv/163/)]
 
 ### Riemann Surfaces 
 - *Beardon, A.*  A Primer on Riemann Surfaces. [[Online](https://archive.org/details/primeronriemanns0000bear)]
@@ -131,6 +136,9 @@ Feel free to send PR. Here is what we need in case you want to know:
 
 ### Compilers
 - **Essential Paper -** *Thompson, K.* Reflections on Trusting Trust. [[PDF](https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf)]
+
+### Surveys
+- *Various Authors.* On the works of Avi Wigderson. [[Online](https://arxiv.org/abs/2307.09524)][[PDF](https://arxiv.org/pdf/2307.09524.pdf)]
 
 ## Statistics
 
