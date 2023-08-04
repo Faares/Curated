@@ -127,9 +127,10 @@ Feel free to send PR. Here is what we need in case you want to know:
 
 ### Artificial Intelligence
 - *Russell, S., &amp; Norving, P.* Artificial Intelligence: A Modern Approach. [[Online](http://aima.cs.berkeley.edu/)]
+- **Paper -** *Valiant, L.G.* A Theory of The Learnable. [[PDF](https://web.mit.edu/6.435/www/Valiant84.pdf)]
 
 ### Algorithms and Data Structures
-- *Knuth, D.* The Art of Computer Programming. **No one complete it, either Donald himself!!**
+- *Knuth, D.* The Art of Computer Programming. **No one completes it, either Donald himself!!**
 
 ### C Programming Language
 - *Kernighan, B. W., &amp; Ritchie, D. M.* The C Programming Language.
