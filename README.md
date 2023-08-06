@@ -8,7 +8,7 @@ As the title says! recently, I get deep into special areas, and references becam
 > *22 / Jul / 2023:* I uploaded some references [here](https://storage.faares.com/). Consider it as a backup.
 
 ## Contribution
-Feel free to send PR. Here is what we need in case you want to know:
+Feel free to send [PR](https://github.com/Faares/Curated/pulls). Here is what we need in case you want to know:
 * Prerequisite road map.
 
 ## Table of Content
