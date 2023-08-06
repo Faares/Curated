@@ -1,47 +1,44 @@
 # Curated: The List of Clear Knowledge.
 As the title says! recently, I get deep into special areas, and references became increasingly "dirty". So, here I'm setting the top-ranked and clear references. Classified by specialty.
 
-Important notes:
+### Important notes:
 * The list contains resources written in non-English languages. You can figure it out by **in LANG** before it. 
 * This list is not for school students! usually, these references need prerequisites to understand.
 
 > *22 / Jul / 2023:* I uploaded some references [here](https://storage.faares.com/). Consider it as a backup.
 ## Contribution
 Feel free to send PR. Here is what we need in case you want to know:
-* - [ ] Prerequisite road map.
+* [ ] Prerequisite road map.
 
 ## Table of Content
-- [Curated: The List of Clear Knowledge.](#curated-the-list-of-clear-knowledge)
-  - [Contribution](#contribution)
-  - [Table of Content](#table-of-content)
-  - [Mathematics](#mathematics)
-    - [Mathematician's Work & Career](#mathematicians-work--career)
-    - [Abstract Algebra](#abstract-algebra)
-    - [Category Theory](#category-theory)
-    - [Euclidean and Non-Euclidean Geometry](#euclidean-and-non-euclidean-geometry)
-    - [Differential Geometry](#differential-geometry)
-    - [Mathematical Analysis](#mathematical-analysis)
-    - [Topology](#topology)
-    - [Knot Theory](#knot-theory)
-    - [Homology](#homology)
-    - [Real Analysis](#real-analysis)
-    - [Complex Analysis](#complex-analysis)
-    - [Manifolds](#manifolds)
-    - [Riemann Surfaces](#riemann-surfaces)
-    - [Measure Theory](#measure-theory)
-    - [Hilbert Space](#hilbert-space)
-  - [Computer Science](#computer-science)
-    - [Theoretical Computer Science](#theoretical-computer-science)
-    - [Cryptography](#cryptography)
-    - [Artificial Intelligence](#artificial-intelligence)
-    - [Algorithms and Data Structures](#algorithms-and-data-structures)
-    - [C Programming Language](#c-programming-language)
-    - [Compilers](#compilers)
-    - [Surveys](#surveys)
-  - [Statistics](#statistics)
-    - [Causal Inference](#causal-inference)
-  - [Translations](#translations)
-    - [Mathematical Subjects](#mathematical-subjects)
+- [Mathematics](#mathematics)
+  - [Mathematician's Work & Career](#mathematicians-work--career)
+  - [Abstract Algebra](#abstract-algebra)
+  - [Category Theory](#category-theory)
+  - [Euclidean and Non-Euclidean Geometry](#euclidean-and-non-euclidean-geometry)
+  - [Differential Geometry](#differential-geometry)
+  - [Mathematical Analysis](#mathematical-analysis)
+  - [Topology](#topology)
+  - [Knot Theory](#knot-theory)
+  - [Homology](#homology)
+  - [Real Analysis](#real-analysis)
+  - [Complex Analysis](#complex-analysis)
+  - [Manifolds](#manifolds)
+  - [Riemann Surfaces](#riemann-surfaces)
+  - [Measure Theory](#measure-theory)
+  - [Hilbert Space](#hilbert-space)
+- [Computer Science](#computer-science)
+  - [Theoretical Computer Science](#theoretical-computer-science)
+  - [Cryptography](#cryptography)
+  - [Artificial Intelligence](#artificial-intelligence)
+  - [Algorithms and Data Structures](#algorithms-and-data-structures)
+  - [C Programming Language](#c-programming-language)
+  - [Compilers](#compilers)
+  - [Surveys](#surveys)
+- [Statistics](#statistics)
+  - [Causal Inference](#causal-inference)
+- [Translations](#translations)
+  - [Mathematical Subjects](#mathematical-subjects)
 
 ---
 
@@ -50,7 +47,7 @@ Feel free to send PR. Here is what we need in case you want to know:
 - *Pólya, G.* How to Solve It.
 - *Tao, T.* Solving Mathematical Problems. [[Online](https://terrytao.wordpress.com/books/solving-mathematical-problems/)]
 - **Paper -** *Tao, T.* What is Good Mathemtatics?  [[PDF](https://arxiv.org/abs/math/0702396)]
-- **Paper -** *Thurston, William P.* On Proof and Progress in Mathematics.  [[PDF](https://arxiv.org/abs/math/9404236)]
+- **Paper -** *Thurston, W. P.* On Proof and Progress in Mathematics.  [[PDF](https://arxiv.org/abs/math/9404236)]
 
 > *Alan Beardon*, has two books [[1](http://services.cambridge.org/us/academic/subjects/mathematics/recreational-mathematics/creative-mathematics-gateway-research?site_view=desktop)],[[2](https://www.cambridge.org/core/books/mathematical-explorations/F926A2DFE3FEC8B34542EC598C8D7DE3)] I think it's good, but I cannot officially list it, since I didn't read them yet.
 
@@ -100,7 +97,7 @@ Feel free to send PR. Here is what we need in case you want to know:
 - **Beautiful Paper -** *Velleman, D.* The Fundamental Theorem of Algebra: A Visual Approach. [[PDF](https://sites.math.washington.edu/~morrow/336_20/fta.pdf)]
 
 ### Manifolds
-- *Thurston, William P.*  Geometry and Topology of Three-manifolds. [[Online](http://library.msri.org/books/gt3m/)]
+- *Thurston, W. P.*  Geometry and Topology of Three-manifolds. [[Online](http://library.msri.org/books/gt3m/)]
 - **Paper -** *Tao, T.*  Ricci flow. [[PDF](https://terrytao.files.wordpress.com/2008/03/ricci.pdf)]
 - *Knopf, D., &amp; Chow, B.*  The Ricci Flow: An Introduction. [[PDF](https://www.ams.org/books/surv/110/surv110-endmatter.pdf)][[Online](https://www.ams.org/books/surv/110)]
 - *Various Authors.*  The Ricci Flow: Techniques and Applications: Part I: Geometric Aspects. [[PDF](https://www.ams.org/books/surv/135/surv135-endmatter.pdf)][[Online](https://www.ams.org/books/surv/135/)]
