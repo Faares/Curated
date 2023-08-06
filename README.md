@@ -12,7 +12,7 @@ Feel free to send [pull request](https://github.com/Faares/Curated) if and only 
 * Known to have an impact or a breakthrough in its field of knowledge.
 * Technical or discuss a technical subject in an intuitive way, not "Basic", "Best Seller" or "Sci-Pop"..etc.
 * If can be abused[^2], clean it as possible. Don't forget to declare the *DISCLAIMER*.
-* Generally, we don't accept lecture notes. However, sometimes they are *clean*, *clear*, *deep* and *organized*.
+* Generally, lecture notes are not acceptable. However, sometimes they are *clean*, *clear*, *deep* and *organized*.
   
 Also, here is what we need in case you want to know:
 * We are open to all fields, especially medicine currently.
