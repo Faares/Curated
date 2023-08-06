@@ -1,15 +1,23 @@
 # Curated: The List of Clear Knowledge.
 As the title says! recently, I get deep into special areas, and references became increasingly "dirty". So, here I'm setting the top-ranked and clear references. Classified by specialty.
 
-### Important notes:
+> [!IMPORTANT] Hello
 * The list contains resources written in non-English languages. You can figure it out by **in LANG** before it. 
 * This list is not for school students! usually, these references need prerequisites to understand.
 
 > *22 / Jul / 2023:* I uploaded some references [here](https://storage.faares.com/). Consider it as a backup.
 
 ## Contribution
-Feel free to send [PR](https://github.com/Faares/Curated). Here is what we need in case you want to know:
-* Prerequisite road map.
+Feel free to send [pull request](https://github.com/Faares/Curated) if and only if the reference satisfies these criteria:
+* You read it or at least skimmed it, and have the required background[^1] to recommend it as a *clear* reference.
+* Known to have an impact or a breakthrough in its field of knowledge.
+* Technical or discuss a technical subject in an intuitive way, not "Basic", "Best Seller" or "Sci-Pop"..etc.
+* If can be abused[^2], clean it as possible. Don't forget to declare the *DISCLAIMER*.
+* Generally, we don't prefer lecture notes. However, sometimes they are *clean*, *clear*, *deep* and *organized*.
+  
+Also, here is what we need in case you want to know:
+* We are open to all fields, especially medicine currently.
+* Prerequisite roadmap.
 
 ## Table of Content
 - [Mathematics](#mathematics)
@@ -168,3 +176,6 @@ Feel free to send [PR](https://github.com/Faares/Curated). Here is what we need 
 - كانتور واللانهاية. ترجمة د.عمران دلول. [[على الانترنت](https://drive.google.com/file/d/15MNRuQn93TL07FZYlL_6Um1bDZrhBU1P/view)]
 - الاستقراء العابر للمُنتهي، مدخل بسيط. ترجمة د.عمران دلول. [[على الانترنت](https://drive.google.com/file/d/1A9txo4NjI12BIE8zcw7DIHkb_rJU-ezP/view)]
 - مفارقة باناخ - تارسكي. ترجمة د.عمران دلول، [عن الأصل](https://math.uchicago.edu/~may/REU2014/REUPapers/Robinson.pdf). [[على الانترنت](https://drive.google.com/file/d/1DqOiURHUesISbaJNMOFq1Y6ZkMSgA6Ac/view)]
+
+[^1]: In the pull request, tell us more about you.
+[^2]: For example resources in Cybersecurity, Pharmacology, or Toxicology..etc.
