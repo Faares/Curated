@@ -122,7 +122,8 @@ Feel free to send PR. Here is what we need in case you want to know:
 - *Barak, B.* Introduction to Theoretical Computer Science. [[Online](https://introtcs.org)]
 - *Wigderson, A.* Mathematics and Computation: A Theory Revolutionizing Technology and Science. [[Online](https://www.math.ias.edu/avi/book)]
 - *Hopcroft, J.* Introduction to Automata Theory, Languages, and Computation. [[Online](http://ce.sharif.edu/courses/94-95/1/ce414-2/resources/root/Text%20Books/Automata/John%20E.%20Hopcroft,%20Rajeev%20Motwani,%20Jeffrey%20D.%20Ullman-Introduction%20to%20Automata%20Theory,%20Languages,%20and%20Computations-Prentice%20Hall%20(2006).pdf)]
-- **Paper -** *Shannon, C.E.* A Mathematical Theory of Communication. [[Online](https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)]
+- **Essential Paper -** *Shannon, C.E.* A Mathematical Theory of Communication. [[PDF](https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)]
+- **Essential Paper -** *Cook, S.A.* The Complexity of Theorem-Proving Procedures. [[Online](https://dl.acm.org/doi/10.1145/800157.805047)][[PDF Old](https://dl.acm.org/doi/pdf/10.1145/800157.805047)][[PDF Modern](https://www.inf.unibz.it/~calvanese/teaching/11-12-tc/material/cook-1971-NP-completeness-of-SAT.pdf)]
 
 ### Cryptography
 - *Goldreich, O.* Foundations of Cryptography: A Primer. [[Online](https://www.wisdom.weizmann.ac.il/~oded/foc-sur04.html)]
