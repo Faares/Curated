@@ -1,9 +1,8 @@
 # Curated: The List of Clear Knowledge.
 As the title says! recently, I get deep into special areas, and references became increasingly "dirty". So, here I'm setting the top-ranked and clear references. Classified by specialty.
 
-> [!IMPORTANT] Hello
-* The list contains resources written in non-English languages. You can figure it out by **in LANG** before it. 
-* This list is not for school students! usually, these references need prerequisites to understand.
+> * The list contains resources written in non-English languages. You can figure it out by **in LANG** before it. 
+> * This list is not for school students! usually, these references need prerequisites to understand.
 
 > *22 / Jul / 2023:* I uploaded some references [here](https://storage.faares.com/). Consider it as a backup.
 
