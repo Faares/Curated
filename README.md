@@ -9,7 +9,7 @@ As the title says! recently, I get deep into special areas, and references becam
 
 ## Contribution
 Feel free to send PR. Here is what we need in case you want to know:
-* [ ] Prerequisite road map.
+* Prerequisite road map.
 
 ## Table of Content
 - [Mathematics](#mathematics)
