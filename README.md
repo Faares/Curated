@@ -143,6 +143,7 @@ Feel free to send PR. Here is what we need in case you want to know:
 
 ### Surveys
 - *Various Authors.* On the works of Avi Wigderson. [[Online](https://arxiv.org/abs/2307.09524)][[PDF](https://arxiv.org/pdf/2307.09524.pdf)]
+- **Paper -** *Valiant, L.G.* Three Problems in Computer Science. [[Online](https://dl.acm.org/doi/10.1145/602382.602410)]
 
 ## Statistics
 
