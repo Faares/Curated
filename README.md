@@ -8,7 +8,7 @@ As the title says! recently, I get deep into special areas, and references becam
 > *22 / Jul / 2023:* I uploaded some references [here](https://storage.faares.com/). Consider it as a backup.
 
 ## Contribution
-Feel free to send [PR](https://github.com/Faares/Curated/pulls). Here is what we need in case you want to know:
+Feel free to send [PR](https://github.com/Faares/Curated). Here is what we need in case you want to know:
 * Prerequisite road map.
 
 ## Table of Content
@@ -59,8 +59,8 @@ Feel free to send [PR](https://github.com/Faares/Curated/pulls). Here is what we
 - **Paper - In Arabic -** *AlYasry, A.* The Concept of Equivalence and its Classes in Mathematics. [[Online](https://drive.google.com/file/d/1EvN7xxAk787kpHTbI_jBkjKgLD_ymexs/view)]
 
 ### Category Theory
-- *Smith, P.* Category Theory I: Notes towards a gentle introduction. [[Online](https://www.logicmatters.net/categories/)]
-- *Smith, P.* Category Theory II: More notes towards a gentle introduction. [[Online](https://www.logicmatters.net/categories/)]
+- *Smith, P.* Category Theory I: Notes Towards a Gentle Introduction. [[Online](https://www.logicmatters.net/categories/)]
+- *Smith, P.* Category Theory II: More Notes Towards a Gentle Introduction. [[Online](https://www.logicmatters.net/categories/)]
 - *Leinster, T.* Basic Category Theory. [[Online](https://arxiv.org/abs/1612.09375)]
 
 ### Euclidean and Non-Euclidean Geometry
