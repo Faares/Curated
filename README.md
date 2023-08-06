@@ -17,6 +17,7 @@ Feel free to send PR. Here is what we need in case you want to know:
   - [Mathematics](#mathematics)
     - [Mathematician's Work & Career](#mathematicians-work--career)
     - [Abstract Algebra](#abstract-algebra)
+    - [Category Theory](#category-theory)
     - [Euclidean and Non-Euclidean Geometry](#euclidean-and-non-euclidean-geometry)
     - [Differential Geometry](#differential-geometry)
     - [Mathematical Analysis](#mathematical-analysis)
@@ -56,6 +57,11 @@ Feel free to send PR. Here is what we need in case you want to know:
 ### Abstract Algebra
 - *Fraleigh, John B.* A First Course in Abstract Algebra.
 - **Paper - In Arabic -** *AlYasry, A.* The Concept of Equivalence and its Classes in Mathematics. [[Online](https://drive.google.com/file/d/1EvN7xxAk787kpHTbI_jBkjKgLD_ymexs/view)]
+
+### Category Theory
+- *Smith, P.* Category Theory I: Notes towards a gentle introduction. [[Online](https://www.logicmatters.net/categories/)]
+- *Smith, P.* Category Theory II: More notes towards a gentle introduction. [[Online](https://www.logicmatters.net/categories/)]
+- *Leinster, T.* Basic Category Theory. [[Online](https://arxiv.org/abs/1612.09375)]
 
 ### Euclidean and Non-Euclidean Geometry
 - *Beardon, A.* Algebra and Geometry.
