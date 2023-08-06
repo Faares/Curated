@@ -38,6 +38,8 @@ Feel free to send PR. Here is what we need in case you want to know:
   - [Surveys](#surveys)
 - [Statistics](#statistics)
   - [Causal Inference](#causal-inference)
+- [Medicine](#medicine)
+  - [Surgery](#surgery)
 - [Translations](#translations)
   - [Mathematical Subjects](#mathematical-subjects)
 
@@ -152,6 +154,11 @@ Feel free to send PR. Here is what we need in case you want to know:
 ### Causal Inference
 - *Pearl, J.* Causal Inference in Statistics: A Primer. [[Online](http://bayes.cs.ucla.edu/PRIMER/)]
 - *Pearl, J.* CAUSALITY. [[Online](http://bayes.cs.ucla.edu/BOOK-2K/)]
+
+## Medicine
+
+### Surgery
+- *Schwartz, S.I.* Principles of Surgery. [[Online](https://accessmedicine.mhmedical.com/book.aspx?bookID=2576#216202639)]
 
 
 ## Translations
