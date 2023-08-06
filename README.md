@@ -8,11 +8,12 @@ As the title says! recently, I get deep into special areas, and references becam
 
 ## Contribution
 Feel free to send [pull request](https://github.com/Faares/Curated) if and only if the reference satisfies these criteria:
-* You read it or at least skimmed it, and have the required background[^1] to recommend it as a *clear* reference.
+* You read it or at least skimmed it, and have the required background[^rb] to recommend it as a *clear* reference.
 * Known to have an impact or a breakthrough in its field of knowledge.
-* Technical or discuss a technical subject in an intuitive way, not "Basic", "Best Seller" or "Sci-Pop"..etc.
-* If can be abused[^2], clean it as possible. Don't forget to declare the *DISCLAIMER*.
 * Generally, lecture notes are not acceptable. However, sometimes they are *clean*, *clear*, *deep* and *organized*.
+* Technical or discuss a technical subject in an intuitive way, not "Basic", "Best Seller" or "Sci-Pop"..etc.
+* The material <ins>**IS NOT**</ins> about <ins>*HOW TO USE[^hw]*</ins> an applied tool or technology[^ht]. Instead, concepts, methods, and engineering tricks are welcome.
+* If can be abused[^ab], clean it as possible. Don't forget to declare the *DISCLAIMER*.
   
 Also, here is what we need in case you want to know:
 * We are open to all fields, especially medicine currently.
@@ -176,5 +177,7 @@ Also, here is what we need in case you want to know:
 - الاستقراء العابر للمُنتهي، مدخل بسيط. ترجمة د.عمران دلول. [[على الانترنت](https://drive.google.com/file/d/1A9txo4NjI12BIE8zcw7DIHkb_rJU-ezP/view)]
 - مفارقة باناخ - تارسكي. ترجمة د.عمران دلول، [عن الأصل](https://math.uchicago.edu/~may/REU2014/REUPapers/Robinson.pdf). [[على الانترنت](https://drive.google.com/file/d/1DqOiURHUesISbaJNMOFq1Y6ZkMSgA6Ac/view)]
 
-[^1]: In the pull request, tell us more about you.
-[^2]: For example resources in Cybersecurity, Pharmacology, or Toxicology..etc.
+[^rb]: In the pull request, tell us more about you.
+[^ab]: E.g. resources in Cybersecurity, Pharmacology, or Toxicology..etc.
+[^ht]: E.g. How to use XXXX tool/technology to make a mobile application.
+[^hw]: *How XXXX works* is acceptable. 
