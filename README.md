@@ -48,6 +48,9 @@ Also, here is what we need in case you want to know:
   - [Causal Inference](#causal-inference)
 - [Medicine](#medicine)
   - [Surgery](#surgery)
+  - [Gastroenterology](#gastroenterology)
+- [Psychology](#psychology)
+  - [Neurophysiology](#neurophysiology)
 - [Translations](#translations)
   - [Mathematical Subjects](#mathematical-subjects)
 
@@ -110,7 +113,7 @@ Also, here is what we need in case you want to know:
 ### Manifolds
 - *Thurston, W. P.*  Geometry and Topology of Three-manifolds. [[Online](http://library.msri.org/books/gt3m/)]
 - **Paper -** *Tao, T.*  Ricci flow. [[PDF](https://terrytao.files.wordpress.com/2008/03/ricci.pdf)]
-- *Knopf, D., &amp; Chow, B.*  The Ricci Flow: An Introduction. [[PDF](https://www.ams.org/books/surv/110/surv110-endmatter.pdf)][[Online](https://www.ams.org/books/surv/110)]
+- *Knopf, D. &amp; Chow, B.*  The Ricci Flow: An Introduction. [[PDF](https://www.ams.org/books/surv/110/surv110-endmatter.pdf)][[Online](https://www.ams.org/books/surv/110)]
 - *Various Authors.*  The Ricci Flow: Techniques and Applications: Part I: Geometric Aspects. [[PDF](https://www.ams.org/books/surv/135/surv135-endmatter.pdf)][[Online](https://www.ams.org/books/surv/135/)]
 - *Various Authors.*  The Ricci Flow: Techniques and Applications: Part II: Analytic Aspects. [[PDF](https://www.ams.org/books/surv/144/surv144-endmatter.pdf)][[Online](https://www.ams.org/books/surv/144/)]
 - *Various Authors.*  The Ricci Flow: Techniques and Applications: Part III: Geometric-Analytic Aspects. [[PDF](https://www.ams.org/books/surv/163/surv163-endmatter.pdf)][[Online](https://www.ams.org/books/surv/163/)]
@@ -122,14 +125,14 @@ Also, here is what we need in case you want to know:
 - *Tao, T.* An Introduction to Measure Theory. [[Online](https://terrytao.wordpress.com/books/an-introduction-to-measure-theory/)]
 
 ### Hilbert Space
-- *Debnath, L., &amp; Mikusinski, P.* Introduction to Hilbert Spaces with Applications. 
+- *Debnath, L. &amp; Mikusinski, P.* Introduction to Hilbert Spaces with Applications. 
 
 
 ## Computer Science
 
 ### Theoretical Computer Science
 - *Sipser, M.* Introduction to The Theory of Computation.
-- *Arora, S., &amp; Barak, B.* Computational Complexity: A Modern Approach. [[Online](http://theory.cs.princeton.edu/complexity/)]
+- *Arora, S. &amp; Barak, B.* Computational Complexity: A Modern Approach. [[Online](http://theory.cs.princeton.edu/complexity/)]
 - *Barak, B.* Introduction to Theoretical Computer Science. [[Online](https://introtcs.org)]
 - *Wigderson, A.* Mathematics and Computation: A Theory Revolutionizing Technology and Science. [[Online](https://www.math.ias.edu/avi/book)]
 - *Hopcroft, J.* Introduction to Automata Theory, Languages, and Computation. [[Online](http://ce.sharif.edu/courses/94-95/1/ce414-2/resources/root/Text%20Books/Automata/John%20E.%20Hopcroft,%20Rajeev%20Motwani,%20Jeffrey%20D.%20Ullman-Introduction%20to%20Automata%20Theory,%20Languages,%20and%20Computations-Prentice%20Hall%20(2006).pdf)]
@@ -141,14 +144,14 @@ Also, here is what we need in case you want to know:
 
 
 ### Artificial Intelligence
-- *Russell, S., &amp; Norving, P.* Artificial Intelligence: A Modern Approach. [[Online](http://aima.cs.berkeley.edu/)]
+- *Russell, S. &amp; Norving, P.* Artificial Intelligence: A Modern Approach. [[Online](http://aima.cs.berkeley.edu/)]
 - **Paper -** *Valiant, L. G.* A Theory of The Learnable. [[PDF](https://web.mit.edu/6.435/www/Valiant84.pdf)]
 
 ### Algorithms and Data Structures
 - *Knuth, D.* The Art of Computer Programming. **No one completes it, either Donald himself!!**
 
 ### C Programming Language
-- *Kernighan, B. W., &amp; Ritchie, D. M.* The C Programming Language.
+- *Kernighan, B. W. &amp; Ritchie, D. M.* The C Programming Language.
 
 ### Compilers
 - **Essential Paper -** *Thompson, K.* Reflections on Trusting Trust. [[PDF](https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf)]
@@ -162,13 +165,20 @@ Also, here is what we need in case you want to know:
 ### Causal Inference
 - *Pearl, J.* Causal Inference in Statistics: A Primer. [[Online](http://bayes.cs.ucla.edu/PRIMER/)]
 - *Pearl, J.* CAUSALITY. [[Online](http://bayes.cs.ucla.edu/BOOK-2K/)]
-
+---
 ## Medicine
 
 ### Surgery
 - *Schwartz, S. I.* Principles of Surgery. [[Online](https://accessmedicine.mhmedical.com/book.aspx?bookID=2576#216202639)]
 
+### Gastroenterology
+- *Yamada, T.* Textbook of Gastroenterology. [[Online](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119600206)]
 
+## Psychology
+### Neurophysiology
+- *Carpenter, R. &amp; Reddi, B.* Neurophysiology: A Conceptual Approach. [[Online](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119600206)]
+
+---
 ## Translations
 
 ### Mathematical Subjects
