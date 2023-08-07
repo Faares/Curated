@@ -41,7 +41,9 @@ Also, here is what we need in case you want to know:
   - [Cryptography](#cryptography)
   - [Artificial Intelligence](#artificial-intelligence)
   - [Algorithms and Data Structures](#algorithms-and-data-structures)
-  - [C Programming Language](#c-programming-language)
+  - [Programming Languages](#programming-languages)
+    - [Erlang](#erlang-programming-language)
+    - [C Programming Language](#c-programming-language)
   - [Compilers](#compilers)
   - [Operating Systems](#operating-systems)
     - [Linux Environment](#linux-environment)
@@ -152,7 +154,12 @@ Also, here is what we need in case you want to know:
 ### Algorithms and Data Structures
 - *Knuth, D.* The Art of Computer Programming. **No one completes it, either Donald himself!!**
 
-### C Programming Language
+### Programming Languages
+
+#### Erlang Programming Language
+- *Armstrong, J.* A History of Erlang. [[Online](https://dl.acm.org/doi/abs/10.1145/1238844.1238850)]
+
+#### C Programming Language
 - *Kernighan, B. W. &amp; Ritchie, D. M.* The C Programming Language.
 
 ### Compilers
