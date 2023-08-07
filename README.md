@@ -29,7 +29,7 @@ Also, here is what we need in case you want to know:
   - [Mathematical Analysis](#mathematical-analysis)
   - [Topology](#topology)
   - [Knot Theory](#knot-theory)
-  - [Homology](#homology)
+  - [Algebraic Topology](#algebraic-topology)
   - [Real Analysis](#real-analysis)
   - [Complex Analysis](#complex-analysis)
   - [Manifolds](#manifolds)
