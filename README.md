@@ -42,7 +42,7 @@ Also, here is what we need in case you want to know:
   - [Artificial Intelligence](#artificial-intelligence)
   - [Algorithms and Data Structures](#algorithms-and-data-structures)
   - [Programming Languages](#programming-languages)
-    - [Erlang](#erlang-programming-language)
+    - [Erlang Programming Language](#erlang-programming-language)
     - [C Programming Language](#c-programming-language)
   - [Compilers](#compilers)
   - [Operating Systems](#operating-systems)
