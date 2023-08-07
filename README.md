@@ -38,6 +38,7 @@ Also, here is what we need in case you want to know:
   - [Hilbert Space](#hilbert-space)
 - [Computer Science](#computer-science)
   - [Theoretical Computer Science](#theoretical-computer-science)
+    - [Surveys](#surveys)
   - [Cryptography](#cryptography)
   - [Artificial Intelligence](#artificial-intelligence)
   - [Algorithms and Data Structures](#algorithms-and-data-structures)
@@ -47,7 +48,6 @@ Also, here is what we need in case you want to know:
   - [Compilers](#compilers)
   - [Operating Systems](#operating-systems)
     - [Linux Environment](#linux-environment)
-  - [Surveys](#surveys)
 - [Statistics](#statistics)
   - [Causal Inference](#causal-inference)
 - [Medicine](#medicine)
@@ -142,6 +142,10 @@ Also, here is what we need in case you want to know:
 - *Hopcroft, J.* Introduction to Automata Theory, Languages, and Computation. [[Online](http://ce.sharif.edu/courses/94-95/1/ce414-2/resources/root/Text%20Books/Automata/John%20E.%20Hopcroft,%20Rajeev%20Motwani,%20Jeffrey%20D.%20Ullman-Introduction%20to%20Automata%20Theory,%20Languages,%20and%20Computations-Prentice%20Hall%20(2006).pdf)]
 - **Essential Paper -** *Shannon, C. E.* A Mathematical Theory of Communication. [[PDF](https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)]
 - **Essential Paper -** *Cook, S. A.* The Complexity of Theorem-Proving Procedures. [[Online](https://dl.acm.org/doi/10.1145/800157.805047)][[PDF Old](https://dl.acm.org/doi/pdf/10.1145/800157.805047)][[PDF Modern](https://www.inf.unibz.it/~calvanese/teaching/11-12-tc/material/cook-1971-NP-completeness-of-SAT.pdf)]
+#### Surveys
+- *Various Authors.* On the works of Avi Wigderson. [[Online](https://arxiv.org/abs/2307.09524)][[PDF](https://arxiv.org/pdf/2307.09524.pdf)]
+- **Paper -** *Valiant, L. G.* Three Problems in Computer Science. [[Online](https://dl.acm.org/doi/10.1145/602382.602410)]
+- *Aaronson, S.* P =? NP. [[PDF](https://www.scottaaronson.com/papers/pnp.pdf)]
 
 ### Cryptography
 - *Goldreich, O.* Foundations of Cryptography: A Primer. [[Online](https://www.wisdom.weizmann.ac.il/~oded/foc-sur04.html)]
@@ -169,9 +173,6 @@ Also, here is what we need in case you want to know:
 #### Linux Environment
 - *LSB Workgroup, The Linux Foundation.* Filesystem Hierarchy Standard. [[Online](https://refspecs.linuxfoundation.org/fhs.shtml)]
   
-### Surveys
-- *Various Authors.* On the works of Avi Wigderson. [[Online](https://arxiv.org/abs/2307.09524)][[PDF](https://arxiv.org/pdf/2307.09524.pdf)]
-- **Paper -** *Valiant, L. G.* Three Problems in Computer Science. [[Online](https://dl.acm.org/doi/10.1145/602382.602410)]
 
 ## Statistics
 
