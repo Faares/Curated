@@ -12,7 +12,7 @@ Feel free to send [pull request](https://github.com/Faares/Curated) if and only 
 * Known to have an impact or a breakthrough in its field of knowledge.
 * Generally, lecture notes are not acceptable. However, sometimes they are *clean*, *clear*, *deep* and *organized*.
 * Technical or discuss a technical subject in an intuitive way, not "Philosophical"[^wp], "Basic for Public", "Best Seller" or "Sci-Pop"..etc.
-* The material <ins>**IS NOT**</ins> about <ins>*HOW TO USE[^hw]*</ins> an applied tool or technology[^ht]. Instead, concepts, methods, and engineering tricks are welcome.
+* The material <ins>**IS NOT**</ins> about <ins>*HOW TO USE*</ins>[^hw] an applied tool or technology[^ht]. Instead, concepts, methods, and engineering tricks are welcome.
 * If can be abused[^ab], clean it as possible. Don't forget to declare the *DISCLAIMER*.
 
 Also, here is what we need in case you want to know:
