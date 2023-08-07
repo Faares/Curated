@@ -43,6 +43,8 @@ Also, here is what we need in case you want to know:
   - [Algorithms and Data Structures](#algorithms-and-data-structures)
   - [C Programming Language](#c-programming-language)
   - [Compilers](#compilers)
+  - [Operating Systems](#operating-systems)
+    - [Linux Environment](#linux-environment)
   - [Surveys](#surveys)
 - [Statistics](#statistics)
   - [Causal Inference](#causal-inference)
@@ -156,6 +158,10 @@ Also, here is what we need in case you want to know:
 ### Compilers
 - **Essential Paper -** *Thompson, K.* Reflections on Trusting Trust. [[PDF](https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf)]
 
+### Operating Systems
+#### Linux Environment
+- *LSB Workgroup, The Linux Foundation.* Filesystem Hierarchy Standard. [[Online](https://refspecs.linuxfoundation.org/fhs.shtml)]
+  
 ### Surveys
 - *Various Authors.* On the works of Avi Wigderson. [[Online](https://arxiv.org/abs/2307.09524)][[PDF](https://arxiv.org/pdf/2307.09524.pdf)]
 - **Paper -** *Valiant, L. G.* Three Problems in Computer Science. [[Online](https://dl.acm.org/doi/10.1145/602382.602410)]
