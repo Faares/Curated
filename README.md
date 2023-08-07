@@ -11,10 +11,10 @@ Feel free to send [pull request](https://github.com/Faares/Curated) if and only 
 * You read or at least skimmed it, and have the required background[^rb] to recommend it as a *clear* reference.
 * Known to have an impact or a breakthrough in its field of knowledge.
 * Generally, lecture notes are not acceptable. However, sometimes they are *clean*, *clear*, *deep* and *organized*.
-* Technical or discuss a technical subject in an intuitive way, not "Basic", "Best Seller" or "Sci-Pop"..etc.
+* Technical or discuss a technical subject in an intuitive way, not "Philosophical"[^wp], "Basic for Public", "Best Seller" or "Sci-Pop"..etc.
 * The material <ins>**IS NOT**</ins> about <ins>*HOW TO USE[^hw]*</ins> an applied tool or technology[^ht]. Instead, concepts, methods, and engineering tricks are welcome.
 * If can be abused[^ab], clean it as possible. Don't forget to declare the *DISCLAIMER*.
-  
+
 Also, here is what we need in case you want to know:
 * We are open to all fields, especially medicine currently.
 * Prerequisite roadmap.
@@ -48,6 +48,8 @@ Also, here is what we need in case you want to know:
   - [Compilers](#compilers)
   - [Operating Systems](#operating-systems)
     - [Linux Environment](#linux-environment)
+  - [Networks](#networks)
+  - [Security](#security)
 - [Statistics](#statistics)
   - [Causal Inference](#causal-inference)
 - [Medicine](#medicine)
@@ -149,6 +151,7 @@ Also, here is what we need in case you want to know:
 
 ### Cryptography
 - *Goldreich, O.* Foundations of Cryptography: A Primer. [[Online](https://www.wisdom.weizmann.ac.il/~oded/foc-sur04.html)]
+- **Paper -** *Kleppmann, M.* Implementing Curve25519/X25519: A Tutorial on Elliptic Curve Cryptography. [[PDF](https://www.cl.cam.ac.uk/teaching/2122/Crypto/curve25519.pdf)]
 
 
 ### Artificial Intelligence
@@ -156,7 +159,7 @@ Also, here is what we need in case you want to know:
 - **Paper -** *Valiant, L. G.* A Theory of The Learnable. [[PDF](https://web.mit.edu/6.435/www/Valiant84.pdf)]
 
 ### Algorithms and Data Structures
-- *Knuth, D.* The Art of Computer Programming. **No one completes it, either Donald himself!!**
+- *Knuth, D.* The Art of Computer Programming. <sub>**No one completes it, either Donald himself!!**</sub>
 
 ### Programming Languages
 
@@ -173,6 +176,15 @@ Also, here is what we need in case you want to know:
 #### Linux Environment
 - *LSB Workgroup, The Linux Foundation.* Filesystem Hierarchy Standard. [[Online](https://refspecs.linuxfoundation.org/fhs.shtml)]
   
+### Networks
+> TODO
+
+### Security
+> *DISCLAIMER:*
+> All resources are listed for learning and white-use purposes.
+> We carry no responsibility regarding any abuse.
+
+- *Erickson, J.* Hacking: The Art of Exploitation.
 
 ## Statistics
 
@@ -218,6 +230,7 @@ Also, here is what we need in case you want to know:
 - الاستقراء العابر للمُنتهي، مدخل بسيط. ترجمة د.عمران دلول. [[على الانترنت](https://drive.google.com/file/d/1A9txo4NjI12BIE8zcw7DIHkb_rJU-ezP/view)]
 - مفارقة باناخ - تارسكي. ترجمة د.عمران دلول، [عن الأصل](https://math.uchicago.edu/~may/REU2014/REUPapers/Robinson.pdf). [[على الانترنت](https://drive.google.com/file/d/1DqOiURHUesISbaJNMOFq1Y6ZkMSgA6Ac/view)]
 
+[^wp]: Philosophy is still the mother of all knowledge. However, we seek only "Technical" knowledge here.
 [^rb]: In the pull request, tell us more about you.
 [^ab]: E.g. resources in Cybersecurity, Pharmacology, or Toxicology..etc.
 [^ht]: E.g. How to use XXXX tool/technology to make a mobile application.
