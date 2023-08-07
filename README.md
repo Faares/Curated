@@ -174,6 +174,21 @@ Also, here is what we need in case you want to know:
 ### Gastroenterology
 - *Yamada, T.* Textbook of Gastroenterology. [[Online](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119600206)]
 
+### Cardiology
+> TODO
+
+### Orthopaedics
+> TODO
+
+### Ophthalmology
+> TODO
+
+### Pediatrics
+> TODO
+
+### Dermatology
+> TODO
+
 ## Psychology
 ### Neurophysiology
 - *Carpenter, R. &amp; Reddi, B.* Neurophysiology: A Conceptual Approach. [[Online](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119600206)]
