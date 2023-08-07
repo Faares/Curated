@@ -8,7 +8,7 @@ As the title says! recently, I get deep into special areas, and references becam
 
 ## Contribution
 Feel free to send [pull request](https://github.com/Faares/Curated) if and only if the reference satisfies these criteria:
-* You read it or at least skimmed it, and have the required background[^rb] to recommend it as a *clear* reference.
+* You read or at least skimmed it, and have the required background[^rb] to recommend it as a *clear* reference.
 * Known to have an impact or a breakthrough in its field of knowledge.
 * Generally, lecture notes are not acceptable. However, sometimes they are *clean*, *clear*, *deep* and *organized*.
 * Technical or discuss a technical subject in an intuitive way, not "Basic", "Best Seller" or "Sci-Pop"..etc.
