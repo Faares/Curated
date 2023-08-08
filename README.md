@@ -25,14 +25,14 @@ Also, here is what we need in case you want to know:
   - [Mathematical Logic](#mathematical-logic)
     - [Cateogry Theory](#category-theory)
   - [Abstract Algebra](#abstract-algebra)
+  - [Mathematical Analysis](#mathematical-analysis)
+    - [Real Analysis](#real-analysis)
+    - [Complex Analysis](#complex-analysis)
   - [Euclidean and Non-Euclidean Geometry](#euclidean-and-non-euclidean-geometry)
   - [Differential Geometry](#differential-geometry)
-  - [Mathematical Analysis](#mathematical-analysis)
   - [Topology](#topology)
   - [Knot Theory](#knot-theory)
   - [Algebraic Topology](#algebraic-topology)
-  - [Real Analysis](#real-analysis)
-  - [Complex Analysis](#complex-analysis)
   - [Manifolds](#manifolds)
   - [Riemann Surfaces](#riemann-surfaces)
   - [Measure Theory](#measure-theory)
@@ -84,6 +84,21 @@ Also, here is what we need in case you want to know:
 - *Fraleigh, John B.* A First Course in Abstract Algebra.
 - **Paper - In Arabic -** *AlYasry, A.* The Concept of Equivalence and its Classes in Mathematics. [[Online](https://drive.google.com/file/d/1EvN7xxAk787kpHTbI_jBkjKgLD_ymexs/view)]
 
+### Mathematical Analysis
+- *Ruden, W.* Principles of Mathematical Analysis. [[Online](https://web.math.ucsb.edu/~agboola/teaching/2021/winter/122A/rudin.pdf)]
+- *Ruden, W.* Real and Complex Analysis.
+- *Keisler, H. J.* Elementary Calculus: An Infinitesimal Approach. [[Online & PDF](https://people.math.wisc.edu/~hkeisler/calc.html)]
+
+#### Real Analysis
+- *Tao, T.* Analysis I.
+- *Tao, T.* Analysis II.
+- *Beardon, A.* Limits: A New Approach to Real Analysis. [[Online](https://link.springer.com/book/10.1007/978-1-4612-0697-2)]
+- **Paper -** *Tao, T.* Compactness and Compactification. [[PDF](https://www.math.ucla.edu/~tao/preprints/compactness.pdf)]
+- **Paper -** *Raman-Sundstrom, M.* A Pedagogical History of Compactness. [[PDF](https://arxiv.org/pdf/1006.4131.pdf)]
+
+#### Complex Analysis
+- *Needham, T.* Visual Complex Analysis. 
+- **Beautiful Paper -** *Velleman, D.* The Fundamental Theorem of Algebra: A Visual Approach. [[PDF](https://sites.math.washington.edu/~morrow/336_20/fta.pdf)]
 
 ### Euclidean and Non-Euclidean Geometry
 - *Beardon, A.* Algebra and Geometry.
@@ -91,9 +106,6 @@ Also, here is what we need in case you want to know:
 ### Differential Geometry
 - *Abate, M. &amp; Tovena, F.* Curves and Surfaces.
 
-### Mathematical Analysis
-- *Ruden, W.* Principles of Mathematical Analysis. [[Online](https://web.math.ucsb.edu/~agboola/teaching/2021/winter/122A/rudin.pdf)]
-- *Ruden, W.* Real and Complex Analysis.
 
 ### Topology
 - *Munkres, J. R.* Topology.
@@ -110,18 +122,6 @@ Also, here is what we need in case you want to know:
 - *Hatcher, A.* Algebraic Topology. [[Online](https://pi.math.cornell.edu/~hatcher/AT/ATpage.html)]
 - **Paper - In Arabic -** *AlYasry, A.* Homology. [[Online](https://drive.google.com/file/d/1x2tt0b_-q4ekhNJcFccwE_mZG40Cvawg/view)]
 
-
-### Real Analysis
-- *Keisler, H. J.* Elementary Calculus: An Infinitesimal Approach. [[Online & PDF](https://people.math.wisc.edu/~hkeisler/calc.html)]
-- *Tao, T.* Analysis I.
-- *Tao, T.* Analysis II.
-- *Beardon, A.* Limits: A New Approach to Real Analysis. [[Online](https://link.springer.com/book/10.1007/978-1-4612-0697-2)]
-- **Paper -** *Tao, T.* Compactness and Compactification. [[PDF](https://www.math.ucla.edu/~tao/preprints/compactness.pdf)]
-- **Paper -** *Raman-Sundstrom, M.* A Pedagogical History of Compactness. [[PDF](https://arxiv.org/pdf/1006.4131.pdf)]
-
-### Complex Analysis
-- *Needham, T.* Visual Complex Analysis. 
-- **Beautiful Paper -** *Velleman, D.* The Fundamental Theorem of Algebra: A Visual Approach. [[PDF](https://sites.math.washington.edu/~morrow/336_20/fta.pdf)]
 
 ### Manifolds
 - *Thurston, W. P.*  Geometry and Topology of Three-manifolds. [[Online](http://library.msri.org/books/gt3m/)]
