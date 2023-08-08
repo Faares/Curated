@@ -31,10 +31,10 @@ Also, here is what we need in case you want to know:
   - [Euclidean and Non-Euclidean Geometry](#euclidean-and-non-euclidean-geometry)
   - [Differential Geometry](#differential-geometry)
   - [Topology](#topology)
-  - [Knot Theory](#knot-theory)
-  - [Algebraic Topology](#algebraic-topology)
-  - [Manifolds](#manifolds)
-  - [Riemann Surfaces](#riemann-surfaces)
+    - [Algebraic Topology](#algebraic-topology)
+    - [Manifolds](#manifolds)
+    - [Riemann Surfaces](#riemann-surfaces)
+    - [Knot Theory](#knot-theory)
   - [Measure Theory](#measure-theory)
   - [Hilbert Space](#hilbert-space)
 - [Computer Science](#computer-science)
@@ -114,16 +114,14 @@ Also, here is what we need in case you want to know:
 - *AlYasry, A.* Lectures in Advance Topology. [[Online](https://drive.google.com/file/d/1Mlj1w-ifPTVuQNsaCmmmTvrFmfnowHjK/view)]
 - **Paper - In Arabic -** *AlYasry, A.* Simple Explanations in Topology and Ideas of High Dimensions . [[Online](https://drive.google.com/file/d/1sF0-I_K45oYoRiBibhCcPX_Rs6DlndDi/view)]
 
-### Knot Theory
-- *AlYasry, A.* Knot Theory. [[Online](https://drive.google.com/file/d/1fVEZZF5G5LweIOxjHe21ZS5ecgqt0bwm/view)]
 
 
-### Algebraic Topology
+#### Algebraic Topology
 - *Hatcher, A.* Algebraic Topology. [[Online](https://pi.math.cornell.edu/~hatcher/AT/ATpage.html)]
 - **Paper - In Arabic -** *AlYasry, A.* Homology. [[Online](https://drive.google.com/file/d/1x2tt0b_-q4ekhNJcFccwE_mZG40Cvawg/view)]
 
 
-### Manifolds
+#### Manifolds
 - *Thurston, W. P.*  Geometry and Topology of Three-manifolds. [[Online](http://library.msri.org/books/gt3m/)]
 - **Paper -** *Tao, T.*  Ricci flow. [[PDF](https://terrytao.files.wordpress.com/2008/03/ricci.pdf)]
 - *Knopf, D. &amp; Chow, B.*  The Ricci Flow: An Introduction. [[PDF](https://www.ams.org/books/surv/110/surv110-endmatter.pdf)][[Online](https://www.ams.org/books/surv/110)]
@@ -131,14 +129,19 @@ Also, here is what we need in case you want to know:
 - *Various Authors.*  The Ricci Flow: Techniques and Applications: Part II: Analytic Aspects. [[PDF](https://www.ams.org/books/surv/144/surv144-endmatter.pdf)][[Online](https://www.ams.org/books/surv/144/)]
 - *Various Authors.*  The Ricci Flow: Techniques and Applications: Part III: Geometric-Analytic Aspects. [[PDF](https://www.ams.org/books/surv/163/surv163-endmatter.pdf)][[Online](https://www.ams.org/books/surv/163/)]
 
-### Riemann Surfaces 
+#### Riemann Surfaces 
 - *Beardon, A.*  A Primer on Riemann Surfaces. [[Online](https://archive.org/details/primeronriemanns0000bear)]
+
+#### Knot Theory
+- *AlYasry, A.* Knot Theory. [[Online](https://drive.google.com/file/d/1fVEZZF5G5LweIOxjHe21ZS5ecgqt0bwm/view)]
+
+### Hilbert Space
+- *Debnath, L. &amp; Mikusinski, P.* Introduction to Hilbert Spaces with Applications.
+
 
 ### Measure Theory
 - *Tao, T.* An Introduction to Measure Theory. [[Online](https://terrytao.wordpress.com/books/an-introduction-to-measure-theory/)]
 
-### Hilbert Space
-- *Debnath, L. &amp; Mikusinski, P.* Introduction to Hilbert Spaces with Applications. 
 
 
 ## Computer Science
