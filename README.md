@@ -147,6 +147,8 @@ Also, here is what we need in case you want to know:
 - *Lewis, C. &amp; Papadimitriou, C.* Elements of the Theory of Computation. [[Online](http://theory.cs.princeton.edu/complexity/)]
 - **Essential Paper -** *Shannon, C. E.* A Mathematical Theory of Communication. [[PDF](https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)]
 - **Essential Paper -** *Cook, S. A.* The Complexity of Theorem-Proving Procedures. [[Online](https://dl.acm.org/doi/10.1145/800157.805047)][[PDF Old](https://dl.acm.org/doi/pdf/10.1145/800157.805047)][[PDF Modern](https://www.inf.unibz.it/~calvanese/teaching/11-12-tc/material/cook-1971-NP-completeness-of-SAT.pdf)]
+- **Essential Paper -** *Turing, A.* On Computable Numbers, with an Application to the Entscheidungs problem. [[Online](https://londmathsoc.onlinelibrary.wiley.com/doi/abs/10.1112/plms/s2-42.1.230)]
+ 
 #### Surveys
 - *Various Authors.* On the works of Avi Wigderson. [[Online](https://arxiv.org/abs/2307.09524)][[PDF](https://arxiv.org/pdf/2307.09524.pdf)]
 - **Paper -** *Valiant, L. G.* Three Problems in Computer Science. [[Online](https://dl.acm.org/doi/10.1145/602382.602410)]
