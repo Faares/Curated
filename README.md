@@ -102,7 +102,7 @@ Also, here is what we need in case you want to know:
 
 
 ### Algebraic Topology
-- *Hatcher, A.* Algebraic Toplogy. [[Online](https://pi.math.cornell.edu/~hatcher/AT/ATpage.html)]
+- *Hatcher, A.* Algebraic Topology. [[Online](https://pi.math.cornell.edu/~hatcher/AT/ATpage.html)]
 - **Paper - In Arabic -** *AlYasry, A.* Homology. [[Online](https://drive.google.com/file/d/1x2tt0b_-q4ekhNJcFccwE_mZG40Cvawg/view)]
 
 
