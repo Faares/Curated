@@ -22,8 +22,9 @@ Also, here is what we need in case you want to know:
 ## Table of Content
 - [Mathematics](#mathematics)
   - [Mathematician's Work & Career](#mathematicians-work--career)
+  - [Mathematical Logic](#mathematical-logic)
+    - [Cateogry Theory](#category-theory)
   - [Abstract Algebra](#abstract-algebra)
-  - [Category Theory](#category-theory)
   - [Euclidean and Non-Euclidean Geometry](#euclidean-and-non-euclidean-geometry)
   - [Differential Geometry](#differential-geometry)
   - [Mathematical Analysis](#mathematical-analysis)
@@ -71,14 +72,18 @@ Also, here is what we need in case you want to know:
 
 > *Alan Beardon*, has two books [[1](http://services.cambridge.org/us/academic/subjects/mathematics/recreational-mathematics/creative-mathematics-gateway-research?site_view=desktop)],[[2](https://www.cambridge.org/core/books/mathematical-explorations/F926A2DFE3FEC8B34542EC598C8D7DE3)] I think it's good, but I cannot officially list it, since I didn't read them yet.
 
+### Mathematical Logic
+- *Smullyan, R. M.* Gödel's Incompleteness Theorems. [[Online](https://global.oup.com/academic/product/gdels-incompleteness-theorems-9780195046724?cc=ro&lang=en&)]
+
+#### Category Theory
+- *Smith, P.* Category Theory I: Notes Towards a Gentle Introduction. [[Online](https://www.logicmatters.net/categories/)]
+- *Smith, P.* Category Theory II: More Notes Towards a Gentle Introduction. [[Online](https://www.logicmatters.net/categories/)]
+- *Leinster, T.* Basic Category Theory. [[Online](https://arxiv.org/abs/1612.09375)]
+
 ### Abstract Algebra
 - *Fraleigh, John B.* A First Course in Abstract Algebra.
 - **Paper - In Arabic -** *AlYasry, A.* The Concept of Equivalence and its Classes in Mathematics. [[Online](https://drive.google.com/file/d/1EvN7xxAk787kpHTbI_jBkjKgLD_ymexs/view)]
 
-### Category Theory
-- *Smith, P.* Category Theory I: Notes Towards a Gentle Introduction. [[Online](https://www.logicmatters.net/categories/)]
-- *Smith, P.* Category Theory II: More Notes Towards a Gentle Introduction. [[Online](https://www.logicmatters.net/categories/)]
-- *Leinster, T.* Basic Category Theory. [[Online](https://arxiv.org/abs/1612.09375)]
 
 ### Euclidean and Non-Euclidean Geometry
 - *Beardon, A.* Algebra and Geometry.
