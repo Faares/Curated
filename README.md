@@ -3,6 +3,7 @@ As the title says! recently, I get deep into special areas, and references becam
 
 * The list contains resources written in non-English languages. You can figure it out by **in LANG** before it.
 * This list is not for school students! usually, these references need prerequisites to understand.
+* Don't take the classification as a final fact, especially in mathematics.
 
 > *22 / Jul / 2023:* I uploaded some references [here](https://storage.faares.com/). Consider it as a backup.
 
@@ -35,8 +36,8 @@ Also, here is what we need in case you want to know:
     - [Manifolds](#manifolds)
     - [Riemann Surfaces](#riemann-surfaces)
     - [Knot Theory](#knot-theory)
-  - [Measure Theory](#measure-theory)
   - [Hilbert Space](#hilbert-space)
+  - [Measure Theory](#measure-theory)
 - [Computer Science](#computer-science)
   - [Theoretical Computer Science](#theoretical-computer-science)
     - [Surveys](#surveys)
