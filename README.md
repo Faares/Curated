@@ -112,6 +112,7 @@ Also, here is what we need in case you want to know:
 
 
 ### Real Analysis
+- *Keisler, H. J.* Elementary Calculus: An Infinitesimal Approach. [[Online & PDF](https://people.math.wisc.edu/~hkeisler/calc.html)]
 - *Tao, T.* Analysis I.
 - *Tao, T.* Analysis II.
 - *Beardon, A.* Limits: A New Approach to Real Analysis. [[Online](https://link.springer.com/book/10.1007/978-1-4612-0697-2)]
