@@ -1,9 +1,9 @@
 # Curated: The List of Clear Knowledge.
-As the title says! recently, I get deep into special areas, and references became increasingly "dirty". So, here I'm setting the top-ranked and clear references. Classified by specialty.
+As the title says! recently, I become deep into special areas, and references became increasingly "dirty". So, here I'm setting the top-ranked and clear references. Classified by specialty.
 
 * The list contains resources written in non-English languages. You can figure it out by **in LANG** before it.
 * This list is not for school students! usually, these references need prerequisites to understand.
-* Don't take the classification as a final fact, especially in mathematics.
+* Don't consider the classification as a final fact, especially in mathematics.
 
 > *22 / Jul / 2023:* I uploaded some references [here](https://storage.faares.com/). Consider it as a backup.
 
@@ -166,6 +166,7 @@ Also, here is what we need in case you want to know:
 
 ### Cryptography
 - *Goldreich, O.* Foundations of Cryptography: A Primer. [[Online](https://www.wisdom.weizmann.ac.il/~oded/foc-sur04.html)]
+- *Goldreich, O.* The Foundations of Cryptography. [[Online](https://www.wisdom.weizmann.ac.il/~oded/foc-book.html)]
 - **Paper -** *Kleppmann, M.* Implementing Curve25519/X25519: A Tutorial on Elliptic Curve Cryptography. [[PDF](https://www.cl.cam.ac.uk/teaching/2122/Crypto/curve25519.pdf)]
 
 
