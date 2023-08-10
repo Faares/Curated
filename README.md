@@ -48,6 +48,7 @@ Also, here is what we need in case you want to know:
     - [Erlang Programming Language](#erlang-programming-language)
     - [C Programming Language](#c-programming-language)
     - [C++ Programming Language](#c-programming-language-1)
+    - [Go Programming Language](#go-programming-language)
   - [Compilers](#compilers)
   - [Operating Systems](#operating-systems)
     - [Linux Environment](#linux-environment)
@@ -190,6 +191,9 @@ Also, here is what we need in case you want to know:
 
 #### C++ Programming Language
 - *Stroustrup, B.* The C++ Programming Language. [[Online](https://www.stroustrup.com/4th.html)]
+
+#### Go Programming Language
+- *Donovan, A. & Kernighan, B.* The Go Programming Language. [[Online](http://www.gopl.io/)]
 
 ### Compilers
 - **Essential Paper -** *Thompson, K.* Reflections on Trusting Trust. [[PDF](https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf)]
