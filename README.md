@@ -52,6 +52,8 @@ Also, here is what we need in case you want to know:
     - [Linux Environment](#linux-environment)
   - [Networks](#networks)
   - [Security](#security)
+- [Software Engineering](#software-engineering)
+  - [Design Patterns](#design-patterns)
 - [Statistics](#statistics)
   - [Causal Inference](#causal-inference)
 - [Medicine](#medicine)
