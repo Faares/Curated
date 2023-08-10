@@ -89,6 +89,18 @@ Also, here is what we need in case you want to know:
 - *Fraleigh, John B.* A First Course in Abstract Algebra.
 - **Paper - In Arabic -** *AlYasry, A.* The Concept of Equivalence and its Classes in Mathematics. [[Online](https://drive.google.com/file/d/1EvN7xxAk787kpHTbI_jBkjKgLD_ymexs/view)]
 
+### Number Theory
+> TODO
+
+#### Analytic Number Theory
+> TODO
+
+#### Geometric Number Theory
+> TODO
+
+#### Partition Theory
+> TODO
+
 ### Mathematical Analysis
 - *Ruden, W.* Principles of Mathematical Analysis. [[Online](https://web.math.ucsb.edu/~agboola/teaching/2021/winter/122A/rudin.pdf)]
 - *Ruden, W.* Real and Complex Analysis.
@@ -148,6 +160,15 @@ Also, here is what we need in case you want to know:
 - *Tao, T.* An Introduction to Measure Theory. [[Online](https://terrytao.wordpress.com/books/an-introduction-to-measure-theory/)]
 
 ### Graph Theory
+> TODO
+
+#### Theory of Expander Graph
+> TOD
+
+#### Theory of Hypergraph
+> TODO
+
+### Combinatorics
 > TODO
 
 ### Game Theory
