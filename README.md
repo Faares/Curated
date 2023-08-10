@@ -202,6 +202,10 @@ Also, here is what we need in case you want to know:
 
 - *Erickson, J.* Hacking: The Art of Exploitation.
 
+## Software Engineering
+### Design Patterns
+- *Gamma, E. & Helm, R. & Johnson, R. & Vlissides, J. [^b4]* Design Patterns: Elements of Reusable Object-Oriented Software. [[Online](https://www.oreilly.com/library/view/design-patterns-elements/0201633612/)]
+
 ## Statistics
 
 ### Causal Inference
@@ -258,3 +262,4 @@ Also, here is what we need in case you want to know:
 [^ab]: E.g. resources in Cybersecurity, Pharmacology, or Toxicology..etc.
 [^ht]: E.g. How to use XXXX tool/technology to make a mobile application.
 [^hw]: *How XXXX works* is acceptable. 
+[^b4]: Also known as "Big Four" or "Gang of Four". 
