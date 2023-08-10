@@ -147,6 +147,11 @@ Also, here is what we need in case you want to know:
 ### Measure Theory
 - *Tao, T.* An Introduction to Measure Theory. [[Online](https://terrytao.wordpress.com/books/an-introduction-to-measure-theory/)]
 
+### Graph Theory
+> TODO
+
+### Game Theory
+> TODO
 
 
 ## Computer Science
