@@ -47,7 +47,7 @@ Also, here is what we need in case you want to know:
   - [Programming Languages](#programming-languages)
     - [Erlang Programming Language](#erlang-programming-language)
     - [C Programming Language](#c-programming-language)
-    - [C++ Programming Language](#c++-programming-language)
+    - [C++ Programming Language](#c-programming-language-1)
   - [Compilers](#compilers)
   - [Operating Systems](#operating-systems)
     - [Linux Environment](#linux-environment)
