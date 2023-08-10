@@ -47,6 +47,7 @@ Also, here is what we need in case you want to know:
   - [Programming Languages](#programming-languages)
     - [Erlang Programming Language](#erlang-programming-language)
     - [C Programming Language](#c-programming-language)
+    - [C++ Programming Language](#c++-programming-language)
   - [Compilers](#compilers)
   - [Operating Systems](#operating-systems)
     - [Linux Environment](#linux-environment)
@@ -186,6 +187,9 @@ Also, here is what we need in case you want to know:
 
 #### C Programming Language
 - *Kernighan, B. W. &amp; Ritchie, D. M.* The C Programming Language.
+
+#### C++ Programming Language
+- *Stroustrup, B.* The C++ Programming Language. [[Online](https://www.stroustrup.com/4th.html)]
 
 ### Compilers
 - **Essential Paper -** *Thompson, K.* Reflections on Trusting Trust. [[PDF](https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf)]
