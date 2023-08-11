@@ -43,7 +43,7 @@ Also, here is what we need in case you want to know:
       - [Surveys](#surveys) 
 - [Computer Science](#computer-science)
   - [Theoretical Computer Science](#theoretical-computer-science)
-    - [Surveys](#surveys)
+    - [Surveys](#surveys1)
   - [Cryptography](#cryptography)
   - [Artificial Intelligence](#artificial-intelligence)
   - [Algorithms and Data Structures](#algorithms-and-data-structures)
