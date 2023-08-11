@@ -33,9 +33,9 @@ Also, here is what we need in case you want to know:
   - [Differential Geometry](#differential-geometry)
   - [Topology](#topology)
     - [Algebraic Topology](#algebraic-topology)
+    - [Knot Theory](#knot-theory)
     - [Manifolds](#manifolds)
     - [Riemann Surfaces](#riemann-surfaces)
-    - [Knot Theory](#knot-theory)
   - [Hilbert Space](#hilbert-space)
   - [Measure Theory](#measure-theory)
   - [Graph Theory](#graph-theory)
@@ -140,6 +140,8 @@ Also, here is what we need in case you want to know:
 - *Hatcher, A.* Algebraic Topology. [[Online](https://pi.math.cornell.edu/~hatcher/AT/ATpage.html)]
 - **Paper - In Arabic -** *AlYasry, A.* Homology. [[Online](https://drive.google.com/file/d/1x2tt0b_-q4ekhNJcFccwE_mZG40Cvawg/view)]
 
+#### Knot Theory
+- *AlYasry, A.* Knot Theory. [[Online](https://drive.google.com/file/d/1fVEZZF5G5LweIOxjHe21ZS5ecgqt0bwm/view)]
 
 #### Manifolds
 - *Thurston, W. P.*  Geometry and Topology of Three-manifolds. [[Online](http://library.msri.org/books/gt3m/)]
@@ -152,8 +154,6 @@ Also, here is what we need in case you want to know:
 #### Riemann Surfaces 
 - *Beardon, A.*  A Primer on Riemann Surfaces. [[Online](https://archive.org/details/primeronriemanns0000bear)]
 
-#### Knot Theory
-- *AlYasry, A.* Knot Theory. [[Online](https://drive.google.com/file/d/1fVEZZF5G5LweIOxjHe21ZS5ecgqt0bwm/view)]
 
 ### Hilbert Space
 - *Debnath, L. &amp; Mikusinski, P.* Introduction to Hilbert Spaces with Applications.
