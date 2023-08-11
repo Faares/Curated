@@ -39,6 +39,8 @@ Also, here is what we need in case you want to know:
   - [Hilbert Space](#hilbert-space)
   - [Measure Theory](#measure-theory)
   - [Graph Theory](#graph-theory)
+    - [Theory of Expander Graphs](#theory-of-expander-graphs)
+      - [Surveys](#surveys) 
 - [Computer Science](#computer-science)
   - [Theoretical Computer Science](#theoretical-computer-science)
     - [Surveys](#surveys)
@@ -163,8 +165,10 @@ Also, here is what we need in case you want to know:
 ### Graph Theory
 - *Wilson, R. J.* Introduction to Graph Theory. [[Online](https://dl.acm.org/doi/10.5555/22577)][[PDF](https://www.maths.ed.ac.uk/~v1ranick/papers/wilsongraph.pdf)]
 
-#### Theory of Expander Graph
-> TOD
+#### Theory of Expander Graphs
+##### Surveys
+- *Hoory, S. & Linial N & Wigderson, A.* Expander Graphs and Their Applications. [[PDF](https://www.cs.huji.ac.il/~nati/PAPERS/expander_survey.pdf)]
+
 
 #### Theory of Hypergraph
 > TODO
