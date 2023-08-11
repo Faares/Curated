@@ -167,7 +167,7 @@ Also, here is what we need in case you want to know:
 
 #### Theory of Expander Graphs
 ##### Surveys
-- *Hoory, S. & Linial N & Wigderson, A.* Expander Graphs and Their Applications. [[PDF](https://www.cs.huji.ac.il/~nati/PAPERS/expander_survey.pdf)]
+- *Hoory, S. & Linial, N. & Wigderson, A.* Expander Graphs and Their Applications. [[PDF](https://www.cs.huji.ac.il/~nati/PAPERS/expander_survey.pdf)]
 
 
 #### Theory of Hypergraph
