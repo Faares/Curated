@@ -1,7 +1,7 @@
 # Curated: The List of Clear Knowledge.
 As the title says! recently, I become deep into special areas, and references became increasingly "dirty". So, here I'm setting the top-ranked and clear references. Classified by specialty.
 
-* The list contains resources written in non-English languages. You can figure it out by **in LANG** before it.
+* The list contains resources written in non-English languages. You can figure it out by **in LANG**.
 * This list is not for school students! usually, these references need prerequisites to understand.
 * Don't consider the classification as a final fact, especially in mathematics.
 
