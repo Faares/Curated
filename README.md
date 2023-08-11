@@ -38,6 +38,7 @@ Also, here is what we need in case you want to know:
     - [Knot Theory](#knot-theory)
   - [Hilbert Space](#hilbert-space)
   - [Measure Theory](#measure-theory)
+  - [Graph Theory](#graph-theory)
 - [Computer Science](#computer-science)
   - [Theoretical Computer Science](#theoretical-computer-science)
     - [Surveys](#surveys)
