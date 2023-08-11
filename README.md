@@ -160,7 +160,7 @@ Also, here is what we need in case you want to know:
 - *Tao, T.* An Introduction to Measure Theory. [[Online](https://terrytao.wordpress.com/books/an-introduction-to-measure-theory/)]
 
 ### Graph Theory
-> TODO
+- *Wilson, R. J.* An Introduction to Measure Theory. [[Online](https://dl.acm.org/doi/10.5555/22577)][[PDF](https://www.maths.ed.ac.uk/~v1ranick/papers/wilsongraph.pdf)]
 
 #### Theory of Expander Graph
 > TOD
