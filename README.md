@@ -293,6 +293,3 @@ As the title says! recently, I become deep into special areas, and references be
 - مفارقة باناخ - تارسكي. ترجمة د.عمران دلول، [عن الأصل](https://math.uchicago.edu/~may/REU2014/REUPapers/Robinson.pdf). [[على الانترنت](https://drive.google.com/file/d/1DqOiURHUesISbaJNMOFq1Y6ZkMSgA6Ac/view)]
 
 [^b4]: Also known as "Big Four" or "Gang of Four". 
-[link-copy]: https://faares.github.io/Curated/COPYRIGHTS
-[link-AR]: https://faares.github.io/Curated/AR
-[link-contributing]: https://faares.github.io/Curated/CONTRIBUTING
