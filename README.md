@@ -197,12 +197,12 @@ Also, here is what we need in case you want to know:
 - **Paper -** *Valiant, L. G.* Three Problems in Computer Science. [[Online](https://dl.acm.org/doi/10.1145/602382.602410)]
  
 #### Randomness and Pseudo-Randomness
-- *Vadhan, S* Pseudorandomness. [[Online](https://people.seas.harvard.edu/~salil/pseudorandomness/)][[PDF](https://people.seas.harvard.edu/~salil/pseudorandomness/pseudorandomness-published-Dec12.pdf)]
+- *Vadhan, S.* Pseudorandomness. [[Online](https://people.seas.harvard.edu/~salil/pseudorandomness/)][[PDF](https://people.seas.harvard.edu/~salil/pseudorandomness/pseudorandomness-published-Dec12.pdf)]
 
 #### Surveys
 - *Various Authors.* On the works of Avi Wigderson. [[Online](https://arxiv.org/abs/2307.09524)][[PDF](https://arxiv.org/pdf/2307.09524.pdf)]
 - *Aaronson, S.* P =? NP. [[PDF](https://www.scottaaronson.com/papers/pnp.pdf)]
-- *Vadhan, S* The Unified Theory of Pseudorandomness. [[Online](https://people.seas.harvard.edu/~salil/research/unified-abs.html)][[PDF](https://people.seas.harvard.edu/~salil/research/unified.pdf)]
+- *Vadhan, S.* The Unified Theory of Pseudorandomness. [[Online](https://people.seas.harvard.edu/~salil/research/unified-abs.html)][[PDF](https://people.seas.harvard.edu/~salil/research/unified.pdf)]
 
 ### Cryptography
 - *Goldreich, O.* Foundations of Cryptography: A Primer. [[Online](https://www.wisdom.weizmann.ac.il/~oded/foc-sur04.html)]
