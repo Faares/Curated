@@ -5,7 +5,7 @@ As the title says! recently, I become deep into special areas, and references be
 * This list is not for school students! usually, these references need prerequisites to understand.
 * Don't consider the classification as a final fact, especially in mathematics.
 
-[[Copyrights](https://faares.github.io/Curated/COPYRIGHTS)] - [[Contributing](https://faares.github.io/Curated/CONTRIBUTING)] - [[AR List](https://faares.github.io/Curated/AR)]
+[[Copyrights](https://faares.github.io/Curated/COPYRIGHTS)] - [[Contribution](https://faares.github.io/Curated/CONTRIBUTION)] - [[AR List](https://faares.github.io/Curated/AR)]
 
 > *22 / Jul / 2023:* I uploaded some references [here](https://storage.faares.com/). Consider it as a backup.
 
