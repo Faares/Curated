@@ -7,9 +7,9 @@ Feel free to send [pull request](https://github.com/Faares/Curated) if and only 
 * The material <ins>**IS NOT**</ins> about <ins>*HOW TO USE*</ins>[^hw] an applied tool or technology[^ht]. Instead, concepts, methods, and engineering tricks are welcome.
 * If can be abused[^ab], clean it as possible. Don't forget to declare the *DISCLAIMER*.
 
-## TODO List
-- We are open to all fields, especially medicine currently.
-- Prerequisite roadmap.
+## What We Need
+1. We are open to all fields, especially medicine currently.
+2. Prerequisite roadmap.
 
 
 [^wp]: Philosophy is still the mother of all knowledge. However, we seek only "Technical" knowledge here.
