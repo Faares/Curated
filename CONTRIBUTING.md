@@ -8,8 +8,8 @@ Feel free to send [pull request](https://github.com/Faares/Curated) if and only 
 * If can be abused[^ab], clean it as possible. Don't forget to declare the *DISCLAIMER*.
 
 ## TODO List
-- [ ] We are open to all fields, especially medicine currently.
-- [ ] Prerequisite roadmap.
+- We are open to all fields, especially medicine currently.
+- Prerequisite roadmap.
 
 
 [^wp]: Philosophy is still the mother of all knowledge. However, we seek only "Technical" knowledge here.
