@@ -110,8 +110,18 @@ As the title says! recently, I become deep into special areas, and references be
 - *Needham, T.* Visual Complex Analysis. 
 - **Beautiful Paper -** *Velleman, D.* The Fundamental Theorem of Algebra: A Visual Approach. [[PDF](https://sites.math.washington.edu/~morrow/336_20/fta.pdf)]
 
+#### Fourier Analysis
+> TODO
+
+
 ### Euclidean and Non-Euclidean Geometry
 - *Beardon, A.* Algebra and Geometry.
+
+### Differential Equations
+#### Ordinary Differential Equations (ODE)
+> TODO
+#### Partial Differential Equations (PDE)
+> TODO
 
 ### Differential Geometry
 - *Abate, M. &amp; Tovena, F.* Curves and Surfaces.
