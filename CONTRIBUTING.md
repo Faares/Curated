@@ -10,3 +10,10 @@ Feel free to send [pull request](https://github.com/Faares/Curated) if and only 
 ## TODO List
 - [ ] We are open to all fields, especially medicine currently.
 - [ ] Prerequisite roadmap.
+
+
+[^wp]: Philosophy is still the mother of all knowledge. However, we seek only "Technical" knowledge here.
+[^rb]: In the pull request, tell us more about you.
+[^ab]: E.g. resources in Cybersecurity, Pharmacology, or Toxicology..etc.
+[^ht]: E.g. How to use XXXX tool/technology to make a mobile application.
+[^hw]: *How XXXX works* is acceptable. 
