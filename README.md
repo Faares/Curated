@@ -303,9 +303,4 @@ Also, here is what we need in case you want to know:
 - الاستقراء العابر للمُنتهي، مدخل بسيط. ترجمة د.عمران دلول. [[على الانترنت](https://drive.google.com/file/d/1A9txo4NjI12BIE8zcw7DIHkb_rJU-ezP/view)]
 - مفارقة باناخ - تارسكي. ترجمة د.عمران دلول، [عن الأصل](https://math.uchicago.edu/~may/REU2014/REUPapers/Robinson.pdf). [[على الانترنت](https://drive.google.com/file/d/1DqOiURHUesISbaJNMOFq1Y6ZkMSgA6Ac/view)]
 
-[^wp]: Philosophy is still the mother of all knowledge. However, we seek only "Technical" knowledge here.
-[^rb]: In the pull request, tell us more about you.
-[^ab]: E.g. resources in Cybersecurity, Pharmacology, or Toxicology..etc.
-[^ht]: E.g. How to use XXXX tool/technology to make a mobile application.
-[^hw]: *How XXXX works* is acceptable. 
 [^b4]: Also known as "Big Four" or "Gang of Four". 
