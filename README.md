@@ -5,20 +5,9 @@ As the title says! recently, I become deep into special areas, and references be
 * This list is not for school students! usually, these references need prerequisites to understand.
 * Don't consider the classification as a final fact, especially in mathematics.
 
+[[Copyrights](link-copy)] - [[Contributing](link-contributing)] - [[AR List](link-ar)]
+
 > *22 / Jul / 2023:* I uploaded some references [here](https://storage.faares.com/). Consider it as a backup.
-
-## Contribution
-Feel free to send [pull request](https://github.com/Faares/Curated) if and only if the reference satisfies these criteria:
-* You read or at least skimmed it, and have the required background[^rb] to recommend it as a *clear* reference.
-* Known to have an impact or a breakthrough in its field of knowledge.
-* Generally, lecture notes are not acceptable. However, sometimes they are *clean*, *clear*, *deep* and *organized*.
-* Technical or discuss a technical subject in an intuitive way, not "Philosophical"[^wp], "Basic for Public", "Best Seller" or "Sci-Pop"..etc.
-* The material <ins>**IS NOT**</ins> about <ins>*HOW TO USE*</ins>[^hw] an applied tool or technology[^ht]. Instead, concepts, methods, and engineering tricks are welcome.
-* If can be abused[^ab], clean it as possible. Don't forget to declare the *DISCLAIMER*.
-
-Also, here is what we need in case you want to know:
-* We are open to all fields, especially medicine currently.
-* Prerequisite roadmap.
 
 ## Table of Content
 - [Mathematics](#mathematics)
@@ -304,3 +293,6 @@ Also, here is what we need in case you want to know:
 - مفارقة باناخ - تارسكي. ترجمة د.عمران دلول، [عن الأصل](https://math.uchicago.edu/~may/REU2014/REUPapers/Robinson.pdf). [[على الانترنت](https://drive.google.com/file/d/1DqOiURHUesISbaJNMOFq1Y6ZkMSgA6Ac/view)]
 
 [^b4]: Also known as "Big Four" or "Gang of Four". 
+[link-copy]: https://faares.github.io/Curated/COPYRIGHTS
+[link-AR]: https://faares.github.io/Curated/AR
+[link-contributing]: https://faares.github.io/Curated/CONTRIBUTING
