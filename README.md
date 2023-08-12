@@ -5,7 +5,7 @@ As the title says! recently, I become deep into special areas, and references be
 * This list is not for school students! usually, these references need prerequisites to understand.
 * Don't consider the classification as a final fact, especially in mathematics.
 
-[[Copyrights](link-copy)] - [[Contributing](link-contributing)] - [[AR List](link-ar)]
+[[Copyrights](link-copy)] - [[Contributing](link-contributing)] - [[AR List](link-AR)]
 
 > *22 / Jul / 2023:* I uploaded some references [here](https://storage.faares.com/). Consider it as a backup.
 
