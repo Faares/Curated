@@ -43,6 +43,7 @@ Also, here is what we need in case you want to know:
       - [Surveys](#surveys) 
 - [Computer Science](#computer-science)
   - [Theoretical Computer Science](#theoretical-computer-science)
+    - [Randomness and Pseudo-Randomness](#randomness-and-pseudo-randomness)
     - [Surveys](#surveys1)
   - [Cryptography](#cryptography)
   - [Artificial Intelligence](#artificial-intelligence)
@@ -193,11 +194,15 @@ Also, here is what we need in case you want to know:
 - **Essential Paper -** *Shannon, C. E.* A Mathematical Theory of Communication. [[PDF](https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)]
 - **Essential Paper -** *Cook, S. A.* The Complexity of Theorem-Proving Procedures. [[Online](https://dl.acm.org/doi/10.1145/800157.805047)][[PDF Old](https://dl.acm.org/doi/pdf/10.1145/800157.805047)][[PDF Modern](https://www.inf.unibz.it/~calvanese/teaching/11-12-tc/material/cook-1971-NP-completeness-of-SAT.pdf)]
 - **Essential Paper -** *Turing, A.* On Computable Numbers, with an Application to the Entscheidungs problem. [[Online](https://londmathsoc.onlinelibrary.wiley.com/doi/abs/10.1112/plms/s2-42.1.230)]
+- **Paper -** *Valiant, L. G.* Three Problems in Computer Science. [[Online](https://dl.acm.org/doi/10.1145/602382.602410)]
  
+#### Randomness and Pseudo-Randomness
+- *Vadhan, S* Pseudorandomness. [[Online](https://people.seas.harvard.edu/~salil/pseudorandomness/)][[PDF](https://people.seas.harvard.edu/~salil/pseudorandomness/pseudorandomness-published-Dec12.pdf)]
+
 #### Surveys
 - *Various Authors.* On the works of Avi Wigderson. [[Online](https://arxiv.org/abs/2307.09524)][[PDF](https://arxiv.org/pdf/2307.09524.pdf)]
-- **Paper -** *Valiant, L. G.* Three Problems in Computer Science. [[Online](https://dl.acm.org/doi/10.1145/602382.602410)]
 - *Aaronson, S.* P =? NP. [[PDF](https://www.scottaaronson.com/papers/pnp.pdf)]
+- *Vadhan, S* The Unified Theory of Pseudorandomness. [[Online](https://people.seas.harvard.edu/~salil/research/unified-abs.html)][[PDF](https://people.seas.harvard.edu/~salil/research/unified.pdf)]
 
 ### Cryptography
 - *Goldreich, O.* Foundations of Cryptography: A Primer. [[Online](https://www.wisdom.weizmann.ac.il/~oded/foc-sur04.html)]
