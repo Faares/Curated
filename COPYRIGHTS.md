@@ -1,6 +1,6 @@
 # Copyrights
 ## Declaration
-All resources are listed based on a personal search, and the list is made to serve the public domain. We don't own any rights to the resources contents, or materials. The authors, publishers, or any stakeholders have all the rights and permissions regarding it.
+All resources are listed based on a personal search, and the list is made to serve the public domain. We don't own any rights to the resources contents, or materials. The authors, publishers, or any authorized stakeholders have all the rights and permissions.
 
 ## Notice of Removal
 Most resources are published online, and some of them are publicly accessible. We only refer to.
