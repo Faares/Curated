@@ -18,6 +18,7 @@ As the title says! recently, I become deep into special areas, and references be
   - [Mathematical Analysis](#mathematical-analysis)
     - [Real Analysis](#real-analysis)
     - [Complex Analysis](#complex-analysis)
+    - [Functional Analysis](#functional-analysis)
   - [Euclidean and Non-Euclidean Geometry](#euclidean-and-non-euclidean-geometry)
   - [Differential Geometry](#differential-geometry)
   - [Topology](#topology)
@@ -25,7 +26,6 @@ As the title says! recently, I become deep into special areas, and references be
     - [Knot Theory](#knot-theory)
     - [Manifolds](#manifolds)
     - [Riemann Surfaces](#riemann-surfaces)
-  - [Hilbert Space](#hilbert-space)
   - [Measure Theory](#measure-theory)
   - [Graph Theory](#graph-theory)
     - [Theory of Expander Graphs](#theory-of-expander-graphs)
@@ -113,6 +113,11 @@ As the title says! recently, I become deep into special areas, and references be
 #### Fourier Analysis
 > TODO
 
+#### Functional Analysis
+- *Debnath, L. &amp; Mikusinski, P.* Introduction to Hilbert Spaces with Applications.
+
+#### Harmonic Analysis
+> TODO
 
 ### Euclidean and Non-Euclidean Geometry
 - *Beardon, A.* Algebra and Geometry.
@@ -155,8 +160,6 @@ As the title says! recently, I become deep into special areas, and references be
 - *Beardon, A.*  A Primer on Riemann Surfaces. [[Online](https://archive.org/details/primeronriemanns0000bear)]
 
 
-### Hilbert Space
-- *Debnath, L. &amp; Mikusinski, P.* Introduction to Hilbert Spaces with Applications.
 
 
 ### Measure Theory
