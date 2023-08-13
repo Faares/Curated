@@ -150,6 +150,7 @@ As the title says! recently, I become deep into special areas, and references be
 
 #### Manifolds
 - *Thurston, W. P.*  Geometry and Topology of Three-manifolds. [[Online](http://library.msri.org/books/gt3m/)]
+- *Thurston, W. P.*  How to See 3-Manifolds. [[PDF](https://homepages.warwick.ac.uk/~masgar/Maths/1998how_to_see_three-manifolds.pdf)]
 - **Paper -** *Tao, T.*  Ricci flow. [[PDF](https://terrytao.files.wordpress.com/2008/03/ricci.pdf)]
 - *Knopf, D. &amp; Chow, B.*  The Ricci Flow: An Introduction. [[PDF](https://www.ams.org/books/surv/110/surv110-endmatter.pdf)][[Online](https://www.ams.org/books/surv/110)]
 - *Various Authors.*  The Ricci Flow: Techniques and Applications: Part I: Geometric Aspects. [[PDF](https://www.ams.org/books/surv/135/surv135-endmatter.pdf)][[Online](https://www.ams.org/books/surv/135/)]
