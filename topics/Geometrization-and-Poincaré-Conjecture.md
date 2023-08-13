@@ -14,7 +14,7 @@ There is a great paper by Thurston about 3-manifolds: [How to See 3-manifolds](h
 ## *Loosely & Roughly Speaking*[^ss]
 Any closed, orientable *2-dimensional* manifold is known to hold one of the three geometric structures: Euclidean $\mathbb{E}$, Spherical $\mathbb{S}$, Hyperbolic $\mathbb{H}$, but what about *3-dimensional* manifolds? What type of geometry they can hold?
 
-Well, the process to deduce the answer is complicated, however, it can be simplified as follow:
+Well, the process to deduce the answer is complicated. However, it can be simplified as follow:
 
 * *3-dimensional* manifolds can be decomposed into sums of prime 3-manifolds, as [The Prime Decomposition Theorem](https://en.wikipedia.org/wiki/Prime_decomposition_of_3-manifolds) states.
 * Which means, *3-manifolds* can be *decomposed* into *connected sum*.
