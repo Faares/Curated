@@ -34,7 +34,7 @@ As the path, **The Geometrization Conjecture** helps in proving **The Elliptizat
 Therefore, **The Poincaré Conjecture** follows immediately.
 
 ## About The Proof
-The proof was done by Grisha Perelman in three papers that appeared on Arxiv [[1]][[2]][[3]], using surgery technique with Ricci Flow. To take an overview, you can read [Tao](https://terrytao.files.wordpress.com/2009/09/poincare.pdf) presentation.
+The proof was done by Grisha Perelman in three papers that appeared on Arxiv [[1]][[2]][[3]], using surgery technique with Ricci Flow. To take an overview of the proof, you can read [Tao](https://terrytao.files.wordpress.com/2009/09/poincare.pdf) presentation.
 
 [^ct]: Remember, the circle is a special kind of ellipse. 
 [^ss]: Trying to simplify the topic in somehow technical language without being too strict.
