@@ -9,14 +9,14 @@ The path can be seen as:
 * The Elliptization conjecture stated, which is a special case of the Geometrization Conjecture.
 * Poincaré Conjecture is a trivial case of the Elliptization conjecture.
 
-## *Loosely & Roughly speaking*[^ss]
-Any closed, orientable *2-dimensional* manifold is known to hold one of the three geometric structure: Euclidean $\mathbb{E}$, Spherical $\mathbb{S}$, Hyperbolical $\mathbb{H}$, but what about *3-dimensional* manifolds? What type of geometry they can holds?
+## *Loosely & Roughly Speaking*[^ss]
+Any closed, orientable *2-dimensional* manifold is known to hold one of the three geometric structures: Euclidean $\mathbb{E}$, Spherical $\mathbb{S}$, Hyperbolic $\mathbb{H}$, but what about *3-dimensional* manifolds? What type of geometry they can hold?
 
-Well, the process to deduce the answer is complicated, however it can be simplified as follow:
+Well, the process to deduce the answer is complicated, however, it can be simplified as follow:
 
 * *3-dimensional* manifolds can be decomposed into sums of prime 3-manifolds, as [The Prime Decomposition Theorem](https://en.wikipedia.org/wiki/Prime_decomposition_of_3-manifolds) states.
 * Which means, *3-manifolds* can be *decomposed* into *connected sum*.
-* **The Geometrization Conjecture:** Thurston conjectured that *all* the components of the *connected sum* holds a geometric structure. So, any *3-manifold* has exacly one of these geometric structures:
+* **The Geometrization Conjecture:** Thurston conjectured that *all* the components of the *connected sum* holds a geometric structure. So, any *3-manifold* has exactly one of these geometric structures:
   * Euclidean geometry $\mathbb{E}$.
   * Hyperbolic geometry $\mathbb{H}$.
   * Spherical geometry $\mathbb{S}$.
@@ -33,6 +33,14 @@ As the path, **The Geometrization Conjecture** helps in proving **The Elliptizat
 
 Therefore, **The Poincaré Conjecture** follows immediately.
 
+## About The Proof
+The proof was done by Grisha Perelman in three papers that appeared on Arxiv [[1]][[2]][[3]], using surgery technique with Ricci Flow. To take an overview, you can read [Tao](https://terrytao.files.wordpress.com/2009/09/poincare.pdf) presentation.
 
-[^ct]: Remember, the circle is special kind of an ellipse. 
+[^ct]: Remember, the circle is a special kind of ellipse. 
 [^ss]: Trying to simplify the topic in somehow technical language without being too strict.
+
+
+
+[1]: https://arxiv.org/abs/math/0211159
+[2]: https://arxiv.org/abs/math/0303109
+[3]: https://arxiv.org/abs/math/0307245
