@@ -4,10 +4,12 @@ The path toward the Poincaré Conjecture proof was initially "started" by the wo
 The path can be seen as: 
 
 * Studying 2-dimensional manifolds and trying to go deep into 3-dimensional manifolds by using it.
-* Discovering decomposability of 3-manifolds.
+* Discovering the decomposability of 3-manifolds.
 * The Geometrization Conjecture stated.
 * The Elliptization conjecture stated, which is a special case of the Geometrization Conjecture.
 * Poincaré Conjecture is a trivial case of the Elliptization conjecture.
+
+There is a great paper by Thurston about 3-manifolds: [How to Seee 3-manifold](https://homepages.warwick.ac.uk/~masgar/Maths/1998how_to_see_three-manifolds.pdf), 
 
 ## *Loosely & Roughly Speaking*[^ss]
 Any closed, orientable *2-dimensional* manifold is known to hold one of the three geometric structures: Euclidean $\mathbb{E}$, Spherical $\mathbb{S}$, Hyperbolic $\mathbb{H}$, but what about *3-dimensional* manifolds? What type of geometry they can hold?
