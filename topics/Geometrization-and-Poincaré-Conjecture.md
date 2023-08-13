@@ -1,5 +1,5 @@
 # Geometrization and Poincaré Conjecture
-The path toward the Poincaré Conjecture proof was initially "started" by the work of Thurston's project, in which he aims to classify and study in-depth low-dimensional manifolds.
+The path toward the Poincaré Conjecture proof was initially "started" by the work of Thurston's project, in which he aimed to classify and study in-depth low-dimensional manifolds.
 
 The path can be seen as: 
 
