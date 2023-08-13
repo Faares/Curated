@@ -17,7 +17,6 @@ Well, the process to deduce the answer is complicated, however it can be simplif
 * *3-dimensional* manifolds can be decomposed into sums of prime 3-manifolds, as [The Prime Decomposition Theorem](https://en.wikipedia.org/wiki/Prime_decomposition_of_3-manifolds) states.
 * Which means, *3-manifolds* can be *decomposed* into *connected sum*.
 * **The Geometrization Conjecture:** Thurston conjectured that *all* the components of the *connected sum* holds a geometric structure. So, any *3-manifold* has exacly one of these geometric structures:
-
   * Euclidean geometry $\mathbb{E}$.
   * Hyperbolic geometry $\mathbb{H}$.
   * Spherical geometry $\mathbb{S}$.
