@@ -9,7 +9,7 @@ The path can be seen as:
 * The Elliptization conjecture stated, which is a special case of the Geometrization Conjecture.
 * Poincaré Conjecture is a trivial case of the Elliptization conjecture.
 
-There is a great paper by Thurston about 3-manifolds: [How to See 3-manifolds](https://homepages.warwick.ac.uk/~masgar/Maths/1998how_to_see_three-manifolds.pdf), 
+There is a great paper by Thurston about 3-manifolds: [How to See 3-manifolds](https://homepages.warwick.ac.uk/~masgar/Maths/1998how_to_see_three-manifolds.pdf).
 
 ## *Loosely & Roughly Speaking*[^ss]
 Any closed, orientable *2-dimensional* manifold is known to hold one of the three geometric structures: Euclidean $\mathbb{E}$, Spherical $\mathbb{S}$, Hyperbolic $\mathbb{H}$, but what about *3-dimensional* manifolds? What type of geometry they can hold?
