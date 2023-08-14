@@ -9,6 +9,7 @@ As the title says! recently, I become deep into special areas, and references be
 
 > *22 / Jul / 2023:* I uploaded some references [here](https://storage.faares.com/). Consider it as a backup.
 
+> *14 / Aug / 2023:* You can sponsor the project to maintain & continue gathering the resources from [here](https://pay.modn.xyz/sponsor).
 ## Table of Content
 - [Mathematics](#mathematics)
   - [Mathematician's Work & Career](#mathematicians-work--career)
