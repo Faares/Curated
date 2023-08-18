@@ -22,10 +22,21 @@ Later, Jean-Pierre Serre confirmed this fact and formulated the [Epsilon Conject
 
 > Ribet’s result *only requires* one to prove the conjecture for *semistable* elliptic curves in order to deduce Fermat’s Last Theorem - Quoted from Wiles paper.
 
-So, it is enough to show that **all semistable elliptic curves are modular** to prove **Fermate Last Theorem**.
+So, it is enough to show that **all semistable elliptic curves over $\mathbb{Q}$ field are modular** to prove **Fermate Last Theorem**.
 
 
 ## About The Proof
-> TODO
+The proof can be sketched in minor steps, but the technicality required ~110 pages to accomplish. The main breakthrough behind it is:
+
+> A new and surprising link between two strong but distinct traditions in number theory, the relationship between **Galois representations and modular forms** on the one hand and **the interpretation of special values of L-functions** on the other.
+
+So, how it was accomplished? 
+
+* First, Wiles started to study **Elliptic Curves** using their **Associated Galois Representation**. In simple terms, if you proved that the **Associated Galois Representation** has a modular form, then the curve is, he picked $p = 3; G(E,3)$ initially, The Galois Representation of the elliptic curve $E$ on $p_3$ division points. Then for some technical reasons, picked $p = 5; G(E,5)$ also.
+
+* The second is what he used to generalize his result for all semistable elliptic curves. The *Modular Lifting Theorem* in which he engaged **[Class Number Formula]** to conduct an induction over all elliptic curves.
+
+[Class Number Formula]: https://en.wikipedia.org/wiki/Class_number_formula
+
 
 [^ss]: Trying to simplify the topic in somehow technical language without being too strict.
