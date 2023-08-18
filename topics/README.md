@@ -3,4 +3,4 @@ Here, we pick a technical topic and try to de-technicalize it. The main goal is 
 
 ---
 * [Geometrization and Poincaré Conjecture](./Geometrization-and-Poincaré-Conjecture)
-* [Fermate-Last-Theorem](./Fermate-Last-Theorem)
+* [Fermate Last Theorem](./Fermate-Last-Theorem)
