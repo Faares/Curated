@@ -34,7 +34,7 @@ So, how it was accomplished?
 
 * First, Wiles started to study **Elliptic Curves** using their **Associated Galois Representation**. In simple terms, if you proved that the **Associated Galois Representation** has a modular form, then the curve is. He picked $p = 3; G(E,3)$ initially, The Galois Representation of the elliptic curve $E$ on $p_3$ division points. Then for some technical reasons, picked $p = 5; G(E,5)$ also.
 
-* The second is what he used to generalize his result for all semistable elliptic curves. The *Modular Lifting Theorem* in which he engaged **[Class Number Formula]** to conduct an induction over all elliptic curves.
+* The second is what he used to generalize his result for all semistable elliptic curves. The *Modular Lifting Theorem* in which he engaged **[Class Number Formula]** to conduct an induction over all elliptic curves, once proved for one curve it automatically extended to all subsequent curves.
 
 [Class Number Formula]: https://en.wikipedia.org/wiki/Class_number_formula
 
