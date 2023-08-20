@@ -118,6 +118,7 @@ As the title says! recently, I become deep into special areas, and references be
 
 #### Functional Analysis
 - *Debnath, L. &amp; Mikusinski, P.* Introduction to Hilbert Spaces with Applications.
+- *Ruden, W.* Functional Analysis.
 
 #### Harmonic Analysis
 > TODO
