@@ -18,6 +18,7 @@ As the title says! recently, I become deep into special areas, and references be
   - [Mathematical Logic](#mathematical-logic)
     - [Cateogry Theory](#category-theory)
   - [Abstract Algebra](#abstract-algebra)
+  - [Number Theory](#number-theory)
   - [Mathematical Analysis](#mathematical-analysis)
     - [Real Analysis](#real-analysis)
     - [Complex Analysis](#complex-analysis)
