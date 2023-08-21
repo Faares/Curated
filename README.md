@@ -86,7 +86,7 @@ As the title says! recently, I become deep into special areas, and references be
 - **Paper - In Arabic -** *AlYasry, A.* The Concept of Equivalence and its Classes in Mathematics. [[Online](https://drive.google.com/file/d/1EvN7xxAk787kpHTbI_jBkjKgLD_ymexs/view)]
 
 ### Number Theory
-> TODO
+- *Serre, J. P.* A Course in Arithmetic. [[Online](https://link.springer.com/book/10.1007/978-1-4684-9884-4)]
 
 #### Analytic Number Theory
 > TODO
