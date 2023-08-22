@@ -16,7 +16,7 @@ As the title says! recently, I become deep into special areas, and references be
 - [Mathematics](#mathematics)
   - [Mathematician's Work & Career](#mathematicians-work--career)
   - [Mathematical Logic](#mathematical-logic)
-    - [Cateogry Theory](#category-theory)
+    - [Category Theory](#category-theory)
   - [Abstract Algebra](#abstract-algebra)
   - [Number Theory](#number-theory)
   - [Mathematical Analysis](#mathematical-analysis)
