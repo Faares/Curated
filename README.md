@@ -87,7 +87,7 @@ As the title says! recently, I become deep into special areas, and references be
 - **Paper - In Arabic -** *AlYasry, A.* The Concept of Equivalence and its Classes in Mathematics. [[Online](https://drive.google.com/file/d/1EvN7xxAk787kpHTbI_jBkjKgLD_ymexs/view)]
 
 ### Number Theory
-- *Serre, J. P.* A Course in Arithmetic. [[Online](https://link.springer.com/book/10.1007/978-1-4684-9884-4)]
+- *Serre, J. P.* A Course in Arithmetic[^jps]. [[Online](https://link.springer.com/book/10.1007/978-1-4684-9884-4)]
 
 #### Analytic Number Theory
 > TODO
@@ -314,3 +314,4 @@ As the title says! recently, I become deep into special areas, and references be
 - مفارقة باناخ - تارسكي. ترجمة د.عمران دلول، [عن الأصل](https://math.uchicago.edu/~may/REU2014/REUPapers/Robinson.pdf). [[على الانترنت](https://drive.google.com/file/d/1DqOiURHUesISbaJNMOFq1Y6ZkMSgA6Ac/view)]
 
 [^b4]: Also known as "Big Four" or "Gang of Four". 
+[^jps]: The book isn't that easy. Here are some annotations for it [1](https://www.math.ucla.edu/~colinni/A%20Guide%20to%20Serre's%20Arithmetic.pdf),[2](https://people.ucsc.edu/~weissman/Math222A/SerreAnn.pdf).
