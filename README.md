@@ -19,6 +19,7 @@ As the title says! recently, I become deep into special areas, and references be
     - [Category Theory](#category-theory)
   - [Abstract Algebra](#abstract-algebra)
   - [Number Theory](#number-theory)
+    - [Geometric Number Theory](#geometric-number-theory)
   - [Mathematical Analysis](#mathematical-analysis)
     - [Real Analysis](#real-analysis)
     - [Complex Analysis](#complex-analysis)
@@ -94,7 +95,7 @@ As the title says! recently, I become deep into special areas, and references be
 > TODO
 
 #### Geometric Number Theory
-> TODO
+- *MIT Course* Introduction To Arithmetic Geometry. [[Online](https://ocw.mit.edu/courses/18-782-introduction-to-arithmetic-geometry-fall-2013/)]
 
 #### Partition Theory
 > TODO
