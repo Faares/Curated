@@ -95,7 +95,7 @@ As the title says! recently, I become deep into special areas, and references be
 > TODO
 
 #### Geometric Number Theory
-- *MIT Course* Introduction To Arithmetic Geometry. [[Online](https://ocw.mit.edu/courses/18-782-introduction-to-arithmetic-geometry-fall-2013/)]
+- *MIT Course.* Introduction To Arithmetic Geometry. [[Online](https://ocw.mit.edu/courses/18-782-introduction-to-arithmetic-geometry-fall-2013/)]
 
 #### Partition Theory
 > TODO
