@@ -24,11 +24,11 @@ Well, the process to deduce the answer is complicated. However, it can be simpli
   * Spherical geometry $\mathbb{S}$.
   * The geometry of $\mathbb{S}^2×\mathbb{R}$.
   * The geometry of $\mathbb{H}^2×\mathbb{R}$.
-  * The geometry of the universal cover ${\displaystyle {\widetilde {\rm {SL}}}(2,\mathbf {R} )}$ of the Lie group $SL_2R$.
+  * The geometry of the universal cover ${\displaystyle {\widetilde {\rm {SL}}}(2,\mathbb {R} )}$ of the Lie group ${\rm SL(2,\mathbb{R})}$.
   * Nil geometry.
   * Sol geometry.
-* The *geometric structure* of a *3-manifold* can be characterized by [the fundamental group](https://en.wikipedia.org/wiki/Fundamental_group).
-* **The Elliptization Conjecture:** Thurston conjectured that a closed 3-manifold with ***finite** [fundamental group](https://en.wikipedia.org/wiki/Fundamental_group)* has $\mathbb{S}^3$ geometric structure.[^ct]
+* The *geometric structure* of a *3-manifold* can be characterized by [The Fundamental Group](https://en.wikipedia.org/wiki/Fundamental_group).
+* **The Elliptization Conjecture:** Thurston conjectured that a closed 3-manifold with ***finite** Fundamental Group has $\mathbb{S}^3$ geometric structure.[^ct]
 * **The Poincaré Conjecture:** Any closed simply connected (aka. with ***trivial** fundamental group*) 3-manifold has the $\mathbb{S}^3$ geometric structure.
 
 As the path, **The Geometrization Conjecture** helps in proving **The Elliptization Conjecture**, using the fact that if the fundamental group is finite, then the geometric structure is $\mathbb{S}$.
