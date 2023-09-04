@@ -4,11 +4,10 @@ In 16-century Fermate stated a *conjecture* in number theory:
 
 > For $(a,b,c,n) \in N\times N\times N \times N$ and $n \geq 3$. The equation $a^n+b^n=c^n$ has no solution.
 
-And claimed he had the proof! Unfortunately, after nearly 3 decades, Wiles was finally able to prove the conjecture.
+And claimed he had the proof! Unfortunately, after nearly 3 decades, Wiles was finally able to prove the conjecture. Using sophisticated language(=construction) and techniques from Algebraic Number Theory, Galois Representation, Elliptic Curves, and Complex Analysis.
 
 ## *Loosely & Roughly Speaking*[^ss]
 
-Using sophisticated language(=construction) and techniques from Algebraic Number Theory, Galois Representation, Elliptic Curves, and Complex Analysis.
 
 The story of the proof begins with the "hypothetical" curve named by Gerhard Frey when he found a link between *Elliptic Curves* and *Diophantine Equation* as explained in his paper:
 > [Links between stable elliptic curves and certain diophantine equations](https://github.com/FrancescaRossi/frey)
