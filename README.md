@@ -70,6 +70,8 @@ As the title says! recently, I become deep into special areas, and references be
 ### Mathematician's Work & Career
 - *Pólya, G.* How to Solve It.
 - *Tao, T.* Solving Mathematical Problems. [[Online](https://terrytao.wordpress.com/books/solving-mathematical-problems/)]
+- *Hamkins, J. D.* Proof and the Art of Mathematics. [[Online](https://mitpressbookstore.mit.edu/book/9780262539791)]
+- *Hamkins, J. D.* Lectures on the Philosophy of Mathematics. [[Online](https://mitpressbookstore.mit.edu/book/9780262542234)]
 - **Paper -** *Tao, T.* What is Good Mathemtatics?  [[PDF](https://arxiv.org/abs/math/0702396)]
 - **Paper -** *Thurston, W. P.* On Proof and Progress in Mathematics.  [[PDF](https://arxiv.org/abs/math/9404236)]
 - **Paper -** *Poincaré, H.* Intuition and Logic in Mathematics. [[Online](https://mathshistory.st-andrews.ac.uk/Extras/Poincare_Intuition/)]
