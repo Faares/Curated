@@ -143,6 +143,7 @@ As the title says! recently, I become deep into special areas, and references be
 
 ### Differential Geometry
 - *Abate, M. &amp; Tovena, F.* Curves and Surfaces.
+- *Tu, W. L.* Differential Geometry: Connections, Curvature, and Characteristic Classes. [[PDF](https://www.math.nagoya-u.ac.jp/~richard/teaching/f2018/Tu_geometry.pdf)][[Online](https://ltu.pages.tufts.edu/books.html)]
 
 ### Topology
 - *Munkres, J. R.* Topology.
