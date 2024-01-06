@@ -143,7 +143,7 @@ As the title says! recently, I become deep into special areas, and references be
 
 ### Differential Geometry
 - *Abate, M. &amp; Tovena, F.* Curves and Surfaces.
-
+- *Tu, W. L.* An Introduction to Manifolds. [[PDF](https://indico.ictp.it/event/a09153/session/10/contribution/6/material/0/0.pdf)][[Online](https://ltu.pages.tufts.edu/books.html)]
 
 ### Topology
 - *Munkres, J. R.* Topology.
