@@ -80,6 +80,8 @@ As the title says! recently, I become deep into special areas, and references be
 
 ### Mathematical Logic
 - *Smullyan, R. M.* Gödel's Incompleteness Theorems. [[Online](https://global.oup.com/academic/product/gdels-incompleteness-theorems-9780195046724?cc=ro&lang=en&)]
+- *Lakatos, I.* Proofs and Refutations: The Logic of Mathematical Discovery. [[Online](https://www.google.com.sa/books/edition/Proofs_and_Refutations/1n6SFdXCOBQC)][[PDF](https://dl1.cuni.cz/pluginfile.php/730446/mod_resource/content/2/Imre%20Lakatos%3B%20Proofs%20and%20Refutations.pdf)]
+
 
 #### Category Theory
 - *Smith, P.* Category Theory I: Notes Towards a Gentle Introduction. [[Online](https://www.logicmatters.net/categories/)]
