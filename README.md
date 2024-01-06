@@ -143,7 +143,6 @@ As the title says! recently, I become deep into special areas, and references be
 
 ### Differential Geometry
 - *Abate, M. &amp; Tovena, F.* Curves and Surfaces.
-- *Tu, W. L.* An Introduction to Manifolds. [[PDF](https://indico.ictp.it/event/a09153/session/10/contribution/6/material/0/0.pdf)][[Online](https://ltu.pages.tufts.edu/books.html)]
 
 ### Topology
 - *Munkres, J. R.* Topology.
@@ -169,6 +168,7 @@ As the title says! recently, I become deep into special areas, and references be
 - *Various Authors.*  The Ricci Flow: Techniques and Applications: Part I: Geometric Aspects. [[PDF](https://www.ams.org/books/surv/135/surv135-endmatter.pdf)][[Online](https://www.ams.org/books/surv/135/)]
 - *Various Authors.*  The Ricci Flow: Techniques and Applications: Part II: Analytic Aspects. [[PDF](https://www.ams.org/books/surv/144/surv144-endmatter.pdf)][[Online](https://www.ams.org/books/surv/144/)]
 - *Various Authors.*  The Ricci Flow: Techniques and Applications: Part III: Geometric-Analytic Aspects. [[PDF](https://www.ams.org/books/surv/163/surv163-endmatter.pdf)][[Online](https://www.ams.org/books/surv/163/)]
+- *Tu, W. L.* An Introduction to Manifolds. [[PDF](https://indico.ictp.it/event/a09153/session/10/contribution/6/material/0/0.pdf)][[Online](https://ltu.pages.tufts.edu/books.html)]
 
 #### Riemann Surfaces 
 - *Beardon, A.*  A Primer on Riemann Surfaces. [[Online](https://archive.org/details/primeronriemanns0000bear)]
