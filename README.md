@@ -133,8 +133,6 @@ As the title says! recently, I become deep into special areas, and references be
 #### Measure Theory
 - *Tao, T.* An Introduction to Measure Theory. [[Online](https://terrytao.wordpress.com/books/an-introduction-to-measure-theory/)]
 
-### Euclidean and Non-Euclidean Geometry
-- *Beardon, A.* Algebra and Geometry.
 
 ### Differential Equations
 
@@ -144,9 +142,13 @@ As the title says! recently, I become deep into special areas, and references be
 #### Partial Differential Equations (PDE)
 > TODO
 
+### Euclidean and Non-Euclidean Geometry
+- *Beardon, A.* Algebra and Geometry.
+
 ### Differential Geometry
 - *Abate, M. &amp; Tovena, F.* Curves and Surfaces.
 - *Tu, W. L.* Differential Geometry: Connections, Curvature, and Characteristic Classes. [[PDF](https://www.math.nagoya-u.ac.jp/~richard/teaching/f2018/Tu_geometry.pdf)][[Online](https://ltu.pages.tufts.edu/books.html)]
+
 
 ### Topology
 - *Munkres, J. R.* Topology.
@@ -154,7 +156,6 @@ As the title says! recently, I become deep into special areas, and references be
 - *Khatchatourian I.* MAT327 • TOPOLOGY. [[Online](http://www.math.toronto.edu/ivan/mat327/index.html?resources)]
 - *AlYasry, A.* Lectures in Advance Topology. [[Online](https://drive.google.com/file/d/1Mlj1w-ifPTVuQNsaCmmmTvrFmfnowHjK/view)]
 - **Paper - In Arabic -** *AlYasry, A.* Simple Explanations in Topology and Ideas of High Dimensions . [[Online](https://drive.google.com/file/d/1sF0-I_K45oYoRiBibhCcPX_Rs6DlndDi/view)]
-
 
 
 #### Algebraic Topology
