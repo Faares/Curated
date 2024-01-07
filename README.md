@@ -28,6 +28,7 @@ As the title says! recently, I become deep into special areas, and references be
   - [Euclidean and Non-Euclidean Geometry](#euclidean-and-non-euclidean-geometry)
   - [Differential Geometry](#differential-geometry)
   - [Topology](#topology)
+    - [Topological Geometry](#topological-geometry)
     - [Algebraic Topology](#algebraic-topology)
     - [Knot Theory](#knot-theory)
     - [Manifolds](#manifolds)
@@ -158,7 +159,7 @@ As the title says! recently, I become deep into special areas, and references be
 - **Paper - In Arabic -** *AlYasry, A.* Simple Explanations in Topology and Ideas of High Dimensions. [[Online](https://drive.google.com/file/d/1sF0-I_K45oYoRiBibhCcPX_Rs6DlndDi/view)]
 - *Armstrong, M. A.* Basic Topology.  [[Online](https://link.springer.com/book/10.1007/978-1-4757-1793-8)]
 
-#### Topological Geometry.
+#### Topological Geometry
 - *Porteous, I. R.* Topological Geometry. [[Online](https://www.cambridge.org/core/books/topological-geometry/AAEBEBC695CF4A98242A74EA2C59E212)] [[PDF](https://www.maths.ed.ac.uk/~v1ranick/papers/porteous2.pdf)]
 
 #### Algebraic Topology
