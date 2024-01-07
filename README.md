@@ -24,6 +24,7 @@ As the title says! recently, I become deep into special areas, and references be
     - [Real Analysis](#real-analysis)
     - [Complex Analysis](#complex-analysis)
     - [Functional Analysis](#functional-analysis)
+    - [Measure Theory](#measure-theory)
   - [Euclidean and Non-Euclidean Geometry](#euclidean-and-non-euclidean-geometry)
   - [Differential Geometry](#differential-geometry)
   - [Topology](#topology)
@@ -31,7 +32,6 @@ As the title says! recently, I become deep into special areas, and references be
     - [Knot Theory](#knot-theory)
     - [Manifolds](#manifolds)
     - [Riemann Surfaces](#riemann-surfaces)
-  - [Measure Theory](#measure-theory)
   - [Graph Theory](#graph-theory)
     - [Theory of Expander Graphs](#theory-of-expander-graphs)
       - [Surveys](#surveys) 
@@ -130,6 +130,9 @@ As the title says! recently, I become deep into special areas, and references be
 #### Harmonic Analysis
 > TODO
 
+#### Measure Theory
+- *Tao, T.* An Introduction to Measure Theory. [[Online](https://terrytao.wordpress.com/books/an-introduction-to-measure-theory/)]
+
 ### Euclidean and Non-Euclidean Geometry
 - *Beardon, A.* Algebra and Geometry.
 
@@ -174,11 +177,6 @@ As the title says! recently, I become deep into special areas, and references be
 #### Riemann Surfaces 
 - *Beardon, A.*  A Primer on Riemann Surfaces. [[Online](https://archive.org/details/primeronriemanns0000bear)]
 
-
-
-
-### Measure Theory
-- *Tao, T.* An Introduction to Measure Theory. [[Online](https://terrytao.wordpress.com/books/an-introduction-to-measure-theory/)]
 
 ### Graph Theory
 - *Wilson, R. J.* Introduction to Graph Theory. [[Online](https://dl.acm.org/doi/10.5555/22577)][[PDF](https://www.maths.ed.ac.uk/~v1ranick/papers/wilsongraph.pdf)]
