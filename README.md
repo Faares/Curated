@@ -25,10 +25,11 @@ As the title says! recently, I become deep into special areas, and references be
     - [Complex Analysis](#complex-analysis)
     - [Functional Analysis](#functional-analysis)
     - [Measure Theory](#measure-theory)
-  - [Euclidean and Non-Euclidean Geometry](#euclidean-and-non-euclidean-geometry)
-  - [Differential Geometry](#differential-geometry)
-  - [Topology](#topology)
+  - [Geometry](#geometry)
+    - [Euclidean and Non-Euclidean Geometry](#euclidean-and-non-euclidean-geometry)
+    - [Differential Geometry](#differential-geometry)
     - [Topological Geometry](#topological-geometry)
+  - [Topology](#topology)
     - [Algebraic Topology](#algebraic-topology)
     - [Knot Theory](#knot-theory)
     - [Manifolds](#manifolds)
@@ -143,13 +144,17 @@ As the title says! recently, I become deep into special areas, and references be
 #### Partial Differential Equations (PDE)
 > TODO
 
-### Euclidean and Non-Euclidean Geometry
+### Geometry
+
+#### Euclidean and Non-Euclidean Geometry
 - *Beardon, A.* Algebra and Geometry.
 
-### Differential Geometry
+#### Differential Geometry
 - *Abate, M. &amp; Tovena, F.* Curves and Surfaces.
 - *Tu, W. L.* Differential Geometry: Connections, Curvature, and Characteristic Classes. [[PDF](https://www.math.nagoya-u.ac.jp/~richard/teaching/f2018/Tu_geometry.pdf)][[Online](https://ltu.pages.tufts.edu/books.html)]
 
+#### Topological Geometry
+- *Porteous, I. R.* Topological Geometry. [[Online](https://www.cambridge.org/core/books/topological-geometry/AAEBEBC695CF4A98242A74EA2C59E212)] [[PDF](https://www.maths.ed.ac.uk/~v1ranick/papers/porteous2.pdf)]
 
 ### Topology
 - *Munkres, J. R.* Topology.
@@ -158,9 +163,6 @@ As the title says! recently, I become deep into special areas, and references be
 - *AlYasry, A.* Lectures in Advance Topology. [[Online](https://drive.google.com/file/d/1Mlj1w-ifPTVuQNsaCmmmTvrFmfnowHjK/view)]
 - **Paper - In Arabic -** *AlYasry, A.* Simple Explanations in Topology and Ideas of High Dimensions. [[Online](https://drive.google.com/file/d/1sF0-I_K45oYoRiBibhCcPX_Rs6DlndDi/view)]
 - *Armstrong, M. A.* Basic Topology.  [[Online](https://link.springer.com/book/10.1007/978-1-4757-1793-8)]
-
-#### Topological Geometry
-- *Porteous, I. R.* Topological Geometry. [[Online](https://www.cambridge.org/core/books/topological-geometry/AAEBEBC695CF4A98242A74EA2C59E212)] [[PDF](https://www.maths.ed.ac.uk/~v1ranick/papers/porteous2.pdf)]
 
 #### Algebraic Topology
 - *Hatcher, A.* Algebraic Topology. [[Online](https://pi.math.cornell.edu/~hatcher/AT/ATpage.html)]
