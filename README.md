@@ -20,6 +20,7 @@ As the title says! recently, I become deep into special areas, and references be
   - [Abstract Algebra](#abstract-algebra)
   - [Number Theory](#number-theory)
     - [Geometric Number Theory](#geometric-number-theory)
+    - [Analytic Number Theory](#analytic-number-theory)
   - [Mathematical Analysis](#mathematical-analysis)
     - [Real Analysis](#real-analysis)
     - [Complex Analysis](#complex-analysis)
