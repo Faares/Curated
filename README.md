@@ -140,6 +140,9 @@ As the title says! recently, I become deep into special areas, and references be
 #### Harmonic Analysis
 > TODO
 
+#### Spectral Theory
+> TODO
+
 #### Measure Theory
 - *Tao, T.* An Introduction to Measure Theory. [[Online](https://terrytao.wordpress.com/books/an-introduction-to-measure-theory/)]
 
