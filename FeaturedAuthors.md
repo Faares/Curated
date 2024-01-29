@@ -3,8 +3,8 @@ People who are pioneers in their field, with no doubts that studying their work 
 
 ## Mathematics
 * Alan Beardon.
-* Allen Hatcher
-* Jean-Pierre Serre
+* Allen Hatcher.
+* Jean-Pierre Serre.
 * Serge Lang.
 * Terence Tao.
 * William Thurston.
