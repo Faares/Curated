@@ -158,6 +158,7 @@ As the title says! recently, I become deep into special areas, and references be
 #### Differential Geometry
 - *Abate, M. &amp; Tovena, F.* Curves and Surfaces.
 - *Tu, W. L.* Differential Geometry: Connections, Curvature, and Characteristic Classes. [[PDF](https://www.math.nagoya-u.ac.jp/~richard/teaching/f2018/Tu_geometry.pdf)][[Online](https://ltu.pages.tufts.edu/books.html)]
+- *Lang, S.* Fundamentals of Differential Geometry. [[Online](https://link.springer.com/book/10.1007/978-1-4612-0541-8)]
 
 #### Topological Geometry
 - *Porteous, I. R.* Topological Geometry. [[Online](https://www.cambridge.org/core/books/topological-geometry/AAEBEBC695CF4A98242A74EA2C59E212)] [[PDF](https://www.maths.ed.ac.uk/~v1ranick/papers/porteous2.pdf)]
