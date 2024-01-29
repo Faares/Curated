@@ -1,9 +1,7 @@
 # Featured Authors
-people who are pioneers in their field, with no doubts that studying their materials helps.
-## Authors
-In alphabetical order.
+People who are pioneers in their field, with no doubts that studying their work helps. Listed in alphabetical order.
 
-### Mathematics
+## Mathematics
 * Alan Beardon.
 * Allen Hatcher
 * Jean-Pierre Serre
@@ -11,7 +9,7 @@ In alphabetical order.
 * Terence Tao.
 * William Thurston.
 
-### Computer Science
+## Computer Science
 * Avi Wigderson.
 * Bjarne Stroustrup.
 * Boaz Barak.
