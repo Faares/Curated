@@ -127,6 +127,7 @@ As the title says! recently, I become deep into special areas, and references be
 #### Complex Analysis
 - *Needham, T.* Visual Complex Analysis. 
 - **Beautiful Paper -** *Velleman, D.* The Fundamental Theorem of Algebra: A Visual Approach. [[PDF](https://sites.math.washington.edu/~morrow/336_20/fta.pdf)]
+- *Lang, S.* Complex Analysis. [[Online](https://link.springer.com/book/10.1007/978-1-4757-3083-8)]
 
 #### Fourier Analysis
 > TODO
