@@ -98,7 +98,7 @@ As the title says! recently, I become deep into special areas, and references be
 - *Serre, J. P.* A Course in Arithmetic[^jps]. [[Online](https://link.springer.com/book/10.1007/978-1-4684-9884-4)]
 
 #### Analytic Number Theory
-> TODO
+- *Lang, S.* Elliptic Functions. [[Online](https://link.springer.com/book/10.1007/978-1-4612-4752-4)]
 
 #### Geometric Number Theory
 - *MIT Course.* Introduction To Arithmetic Geometry. [[Online](https://ocw.mit.edu/courses/18-782-introduction-to-arithmetic-geometry-fall-2013/)]
