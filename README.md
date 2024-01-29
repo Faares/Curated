@@ -19,8 +19,9 @@ As the title says! recently, I become deep into special areas, and references be
     - [Category Theory](#category-theory)
   - [Abstract Algebra](#abstract-algebra)
   - [Number Theory](#number-theory)
-    - [Geometric Number Theory](#geometric-number-theory)
     - [Analytic Number Theory](#analytic-number-theory)
+    - [Algebraic Number Theory](#algebraic-number-theory)
+    - [Geometric Number Theory](#geometric-number-theory)
   - [Mathematical Analysis](#mathematical-analysis)
     - [Real Analysis](#real-analysis)
     - [Complex Analysis](#complex-analysis)
@@ -101,6 +102,9 @@ As the title says! recently, I become deep into special areas, and references be
 
 #### Analytic Number Theory
 - *Lang, S.* Elliptic Functions. [[Online](https://link.springer.com/book/10.1007/978-1-4612-4752-4)]
+
+#### Algebraic Number Theory
+- *Lang, S.* Algebraic Number Theory. [[Online](https://link.springer.com/book/10.1007/978-1-4612-0853-2)]
 
 #### Geometric Number Theory
 - *MIT Course.* Introduction To Arithmetic Geometry. [[Online](https://ocw.mit.edu/courses/18-782-introduction-to-arithmetic-geometry-fall-2013/)]
