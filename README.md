@@ -117,6 +117,8 @@ As the title says! recently, I become deep into special areas, and references be
 - *Ruden, W.* Principles of Mathematical Analysis. [[Online](https://web.math.ucsb.edu/~agboola/teaching/2021/winter/122A/rudin.pdf)]
 - *Ruden, W.* Real and Complex Analysis.
 - *Keisler, H. J.* Elementary Calculus: An Infinitesimal Approach. [[Online & PDF](https://people.math.wisc.edu/~hkeisler/calc.html)]
+- *Lang, S.* Undergraduate Analysis. [[Online](https://link.springer.com/book/10.1007/978-1-4757-2698-5)]
+- *Lang, S.* Real and Functional Analysis. [[Online](https://link.springer.com/book/10.1007/978-1-4612-0897-6)]
 
 #### Real Analysis
 - *Tao, T.* Analysis I.
