@@ -113,6 +113,9 @@ As the title says! recently, I become deep into special areas, and references be
 #### Partition Theory
 > TODO
 
+### Ring Theory
+- *MIT Course.* From Numbers to Rings: The Early History of Ring Theory. [[Online](https://web.archive.org/web/20120722002823/http://retro.seals.ch/cntmng?type=pdf&rid=elemat-001:1998:53::22&subp=hires)] - [[PDF](https://www.ems-ph.org/journals/show_pdf.php?issn=0013-6018&vol=53&iss=1&rank=2)]
+
 ### Mathematical Analysis
 - *Ruden, W.* Principles of Mathematical Analysis. [[Online](https://web.math.ucsb.edu/~agboola/teaching/2021/winter/122A/rudin.pdf)]
 - *Ruden, W.* Real and Complex Analysis.
