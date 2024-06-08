@@ -207,9 +207,9 @@ As the title says! recently, I become deep into special areas, and references be
 - *Wilson, R. J.* Introduction to Graph Theory. [[Online](https://dl.acm.org/doi/10.5555/22577)][[PDF](https://www.maths.ed.ac.uk/~v1ranick/papers/wilsongraph.pdf)]
 
 #### Theory of Expander Graphs
-- **Paper** *Goldreich, O.* Basic Facts about Expander Graphs. [[Online](https://www.wisdom.weizmann.ac.il/~oded/COL/expander.pdf)]
 
 ##### Surveys
+- *Goldreich, O.* Basic Facts about Expander Graphs. [[Online](https://www.wisdom.weizmann.ac.il/~oded/COL/expander.pdf)]
 - *Hoory, S. & Linial, N. & Wigderson, A.* Expander Graphs and Their Applications. [[PDF](https://www.cs.huji.ac.il/~nati/PAPERS/expander_survey.pdf)]
 
 
