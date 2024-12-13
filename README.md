@@ -159,7 +159,7 @@ As the title says! recently, I become deep into special areas, and references be
 > TODO
 
 #### Partial Differential Equations (PDE)
-> TODO
+- *Craig, W.* A Course on Partial Differential Equations. [[Online](https://bookstore.ams.org/view?ProductCode=GSM/197)]
 
 ### Geometry
 
@@ -171,6 +171,7 @@ As the title says! recently, I become deep into special areas, and references be
 - *Tu, W. L.* Differential Geometry: Connections, Curvature, and Characteristic Classes. [[PDF](https://www.math.nagoya-u.ac.jp/~richard/teaching/f2018/Tu_geometry.pdf)][[Online](https://ltu.pages.tufts.edu/books.html)]
 - *Lang, S.* Fundamentals of Differential Geometry. [[Online](https://link.springer.com/book/10.1007/978-1-4612-0541-8)]
 - *Spivak, M.* A Comprehensive Introduction to Differential Geometry (4 Volumes). [[Online](https://mathpop.com/upublish-or-perish-on-amazonv-)]
+- *Petersen, P.* Classical Differential Geometry. [[PDF](https://www.math.ucla.edu/%7Epetersen/DiffGeo.pdf)
 
 
 #### Topological Geometry
@@ -200,6 +201,10 @@ As the title says! recently, I become deep into special areas, and references be
 - *Various Authors.*  The Ricci Flow: Techniques and Applications: Part II: Analytic Aspects. [[PDF](https://www.ams.org/books/surv/144/surv144-endmatter.pdf)][[Online](https://www.ams.org/books/surv/144/)]
 - *Various Authors.*  The Ricci Flow: Techniques and Applications: Part III: Geometric-Analytic Aspects. [[PDF](https://www.ams.org/books/surv/163/surv163-endmatter.pdf)][[Online](https://www.ams.org/books/surv/163/)]
 - *Tu, W. L.* An Introduction to Manifolds. [[PDF](https://indico.ictp.it/event/a09153/session/10/contribution/6/material/0/0.pdf)][[Online](https://ltu.pages.tufts.edu/books.html)]
+- *Petersen, P.* Manifold Theory. [[PDF](https://www.math.ucla.edu/~petersen/manifolds.pdf)
+
+#### Riemann Geometry 
+- *Petersen, P.* Riemann Geometry. [[Online](https://link.springer.com/book/10.1007/978-3-319-26654-1)
 
 #### Riemann Surfaces 
 - *Beardon, A.*  A Primer on Riemann Surfaces. [[Online](https://archive.org/details/primeronriemanns0000bear)]
