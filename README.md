@@ -36,6 +36,7 @@ As the title says! recently, I become deep into special areas, and references be
     - [Algebraic Topology](#algebraic-topology)
     - [Knot Theory](#knot-theory)
     - [Manifolds](#manifolds)
+    - [Riemann Geometry](#riemann-geometry)
     - [Riemann Surfaces](#riemann-surfaces)
   - [Graph Theory](#graph-theory)
     - [Theory of Expander Graphs](#theory-of-expander-graphs)
@@ -204,7 +205,7 @@ As the title says! recently, I become deep into special areas, and references be
 - *Petersen, P.* Manifold Theory. [[PDF](https://www.math.ucla.edu/~petersen/manifolds.pdf)
 
 #### Riemann Geometry 
-- *Petersen, P.* Riemann Geometry. [[Online](https://link.springer.com/book/10.1007/978-3-319-26654-1)
+- *Petersen, P.* Riemann Geometry. [[Online](https://link.springer.com/book/10.1007/978-3-319-26654-1)]
 
 #### Riemann Surfaces 
 - *Beardon, A.*  A Primer on Riemann Surfaces. [[Online](https://archive.org/details/primeronriemanns0000bear)]
