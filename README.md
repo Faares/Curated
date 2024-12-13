@@ -172,7 +172,7 @@ As the title says! recently, I become deep into special areas, and references be
 - *Tu, W. L.* Differential Geometry: Connections, Curvature, and Characteristic Classes. [[PDF](https://www.math.nagoya-u.ac.jp/~richard/teaching/f2018/Tu_geometry.pdf)][[Online](https://ltu.pages.tufts.edu/books.html)]
 - *Lang, S.* Fundamentals of Differential Geometry. [[Online](https://link.springer.com/book/10.1007/978-1-4612-0541-8)]
 - *Spivak, M.* A Comprehensive Introduction to Differential Geometry (4 Volumes). [[Online](https://mathpop.com/upublish-or-perish-on-amazonv-)]
-- *Petersen, P.* Classical Differential Geometry. [[PDF](https://www.math.ucla.edu/%7Epetersen/DiffGeo.pdf)
+- *Petersen, P.* Classical Differential Geometry. [[PDF](https://www.math.ucla.edu/%7Epetersen/DiffGeo.pdf)]
 
 
 #### Topological Geometry
