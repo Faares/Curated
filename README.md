@@ -202,7 +202,7 @@ As the title says! recently, I become deep into special areas, and references be
 - *Various Authors.*  The Ricci Flow: Techniques and Applications: Part II: Analytic Aspects. [[PDF](https://www.ams.org/books/surv/144/surv144-endmatter.pdf)][[Online](https://www.ams.org/books/surv/144/)]
 - *Various Authors.*  The Ricci Flow: Techniques and Applications: Part III: Geometric-Analytic Aspects. [[PDF](https://www.ams.org/books/surv/163/surv163-endmatter.pdf)][[Online](https://www.ams.org/books/surv/163/)]
 - *Tu, W. L.* An Introduction to Manifolds. [[PDF](https://indico.ictp.it/event/a09153/session/10/contribution/6/material/0/0.pdf)][[Online](https://ltu.pages.tufts.edu/books.html)]
-- *Petersen, P.* Manifold Theory. [[PDF](https://www.math.ucla.edu/~petersen/manifolds.pdf)
+- *Petersen, P.* Manifold Theory. [[PDF](https://www.math.ucla.edu/~petersen/manifolds.pdf)]
 
 #### Riemann Geometry 
 - *Petersen, P.* Riemann Geometry. [[Online](https://link.springer.com/book/10.1007/978-3-319-26654-1)]
