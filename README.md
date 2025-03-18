@@ -350,6 +350,7 @@ As the title says! recently, I become deep into special areas, and references be
 ## Music
 ### Composition
 > Temporary, you can find it [here](https://faares.github.io/Curated/Composition).
+
 ---
 ## Translations
 
