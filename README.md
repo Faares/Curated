@@ -7,10 +7,10 @@ As the title says! recently, I become deep into special areas, and references be
 
 [[Copyrights](https://faares.github.io/Curated/COPYRIGHTS)] - [[Contribution](https://faares.github.io/Curated/CONTRIBUTION)] - [[Topics](https://faares.github.io/Curated/topics)] - [[Featured Authors](https://faares.github.io/Curated/FeaturedAuthors)] - [[AR List](https://faares.github.io/Curated/AR)]
 
-> *22 / Jul / 2023:* I uploaded some references [here](https://storage.faares.com/). Consider it as a backup.
-
-> *14 / Aug / 2023:* You can sponsor the project to maintain & continue gathering the resources from [here](https://finance.modn.tech/DGive).
-
+## Change Logs
+- *22 / Jul / 2023:* I uploaded some references [here](https://storage.faares.com/). Consider it as a backup.
+- *14 / Aug / 2023:* You can sponsor the project to maintain & continue gathering the resources from [here](https://finance.modn.tech/DGive).
+- *18 / Mar / 2025:* Music Theory, Composition added.
 
 ## Table of Content
 - [Mathematics](#mathematics)
@@ -67,6 +67,8 @@ As the title says! recently, I become deep into special areas, and references be
   - [Gastroenterology](#gastroenterology)
 - [Psychology](#psychology)
   - [Neurophysiology](#neurophysiology)
+- [Music](#music)
+  - [Composition](#composition)
 - [Translations](#translations)
   - [Mathematical Subjects](#mathematical-subjects)
 
@@ -344,6 +346,10 @@ As the title says! recently, I become deep into special areas, and references be
 ### Neurophysiology
 - *Carpenter, R. &amp; Reddi, B.* Neurophysiology: A Conceptual Approach. [[Online](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119600206)]
 
+---
+## Music
+### Composition
+> Temporary, you can find it [here](https://faares.github.io/Curated/Composition).
 ---
 ## Translations
 
