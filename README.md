@@ -359,6 +359,8 @@ As the title says! recently, I become deep into special areas, and references be
 - كانتور واللانهاية. ترجمة د.عمران دلول. [[على الانترنت](https://drive.google.com/file/d/15MNRuQn93TL07FZYlL_6Um1bDZrhBU1P/view)]
 - الاستقراء العابر للمُنتهي، مدخل بسيط. ترجمة د.عمران دلول. [[على الانترنت](https://drive.google.com/file/d/1A9txo4NjI12BIE8zcw7DIHkb_rJU-ezP/view)]
 - مفارقة باناخ - تارسكي. ترجمة د.عمران دلول، [عن الأصل](https://math.uchicago.edu/~may/REU2014/REUPapers/Robinson.pdf). [[على الانترنت](https://drive.google.com/file/d/1DqOiURHUesISbaJNMOFq1Y6ZkMSgA6Ac/view)]
+---
+
 
 [^b4]: Also known as "Big Four" or "Gang of Four". 
 [^jps]: The book isn't that easy. Here are some annotations for it [[1](https://www.math.ucla.edu/~colinni/A%20Guide%20to%20Serre's%20Arithmetic.pdf)],[[2](https://people.ucsc.edu/~weissman/Math222A/SerreAnn.pdf)].
