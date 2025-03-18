@@ -359,6 +359,8 @@ As the title says! recently, I become deep into special areas, and references be
 - كانتور واللانهاية. ترجمة د.عمران دلول. [[على الانترنت](https://drive.google.com/file/d/15MNRuQn93TL07FZYlL_6Um1bDZrhBU1P/view)]
 - الاستقراء العابر للمُنتهي، مدخل بسيط. ترجمة د.عمران دلول. [[على الانترنت](https://drive.google.com/file/d/1A9txo4NjI12BIE8zcw7DIHkb_rJU-ezP/view)]
 - مفارقة باناخ - تارسكي. ترجمة د.عمران دلول، [عن الأصل](https://math.uchicago.edu/~may/REU2014/REUPapers/Robinson.pdf). [[على الانترنت](https://drive.google.com/file/d/1DqOiURHUesISbaJNMOFq1Y6ZkMSgA6Ac/view)]
+
+
 ---
 
 
