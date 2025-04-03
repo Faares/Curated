@@ -69,6 +69,7 @@ As the title says! recently, I become deep into special areas, and references be
   - [Neurophysiology](#neurophysiology)
 - [Music](#music)
   - [Composition](#composition)
+  - [Notation](#notation)
 - [Translations](#translations)
   - [Mathematical Subjects](#mathematical-subjects)
 
@@ -351,6 +352,9 @@ As the title says! recently, I become deep into special areas, and references be
 ### Composition
 - *Schoenberg, A.* Fundamentals of Musical Composition. [[Online](https://www.goodreads.com/book/show/1154785.Fundamentals_of_Musical_Composition)]
 - *Sturman, P.* Harmony, Melody & Composition. [[Online](https://www.goodreads.com/book/show/1194290.Harmony_Melody_and_Composition)]
+
+### Notation
+- *Gould, E.* Behind Bars: The Definitive Guide to Music Notation. [[Online](http://www.behindbarsnotation.co.uk/)]
 
 ---
 ## Translations
