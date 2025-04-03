@@ -349,7 +349,8 @@ As the title says! recently, I become deep into special areas, and references be
 ---
 ## Music
 ### Composition
-> Temporary, you can find it [here](https://faares.github.io/Curated/Composition).
+- *Schoenberg, A.* Fundamentals of Musical Composition. [[Online]](https://www.goodreads.com/book/show/1154785.Fundamentals_of_Musical_Composition)
+- *Sturman, P.* Harmony, Melody & Composition. [[Online]](https://www.goodreads.com/book/show/1194290.Harmony_Melody_and_Composition)
 
 ---
 ## Translations
