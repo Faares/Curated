@@ -18,6 +18,7 @@ As the title says! recently, I become deep into special areas, and references be
   - [Mathematical Logic](#mathematical-logic)
     - [Category Theory](#category-theory)
   - [Abstract Algebra](#abstract-algebra)
+    - [Commutative Algebra](#commutative-algebra)
   - [Number Theory](#number-theory)
     - [Analytic Number Theory](#analytic-number-theory)
     - [Algebraic Number Theory](#algebraic-number-theory)
@@ -104,7 +105,7 @@ As the title says! recently, I become deep into special areas, and references be
 - *Lang, S.* Undergraduate Algebra. [[Online](https://link.springer.com/book/10.1007/0-387-27475-8)]
 
 #### Commutative Algebra
-- *Atiyah, M. F., & MacDonald, I. G.* Introduction to Commutative Algebra. [[Online](https://webhomes.maths.ed.ac.uk/~v1ranick/papers/atiyahmacdonald.pdf)]
+- *Atiyah, M. F., & MacDonald, I. G.* Introduction to Commutative Algebra. [[PDF](https://webhomes.maths.ed.ac.uk/~v1ranick/papers/atiyahmacdonald.pdf)]
 
 ### Number Theory
 - *Serre, J. P.* A Course in Arithmetic[^jps]. [[Online](https://link.springer.com/book/10.1007/978-1-4684-9884-4)]
