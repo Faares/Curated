@@ -103,6 +103,9 @@ As the title says! recently, I become deep into special areas, and references be
 - **Paper - In Arabic -** *AlYasry, A.* The Concept of Equivalence and its Classes in Mathematics. [[Online](https://drive.google.com/file/d/1EvN7xxAk787kpHTbI_jBkjKgLD_ymexs/view)]
 - *Lang, S.* Undergraduate Algebra. [[Online](https://link.springer.com/book/10.1007/0-387-27475-8)]
 
+#### Commutative Algebra
+- *Atiyah, M. F., & MacDonald, I. G.* Introduction to Commutative Algebra. [[Online](https://webhomes.maths.ed.ac.uk/~v1ranick/papers/atiyahmacdonald.pdf)]
+
 ### Number Theory
 - *Serre, J. P.* A Course in Arithmetic[^jps]. [[Online](https://link.springer.com/book/10.1007/978-1-4684-9884-4)]
 
