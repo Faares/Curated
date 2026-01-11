@@ -11,6 +11,7 @@ As the title says! recently, I become deep into special areas, and references be
 - *22 / Jul / 2023:* I uploaded some references [here](https://storage.faares.com/). Consider it as a backup.
 - *14 / Aug / 2023:* You can sponsor the project to maintain & continue gathering the resources from [here](https://finance.modn.tech/DGive).
 - *18 / Mar / 2025:* Music Theory, Composition added.
+- *11 / Jan / 2025:* Abstract Algebra, Commutative Algebra added.
 
 ## Table of Content
 - [Mathematics](#mathematics)
