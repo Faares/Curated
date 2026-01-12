@@ -12,6 +12,7 @@ As the title says! recently, I become deep into special areas, and references be
 - *14 / Aug / 2023:* You can sponsor the project to maintain & continue gathering the resources from [here](https://finance.modn.tech/DGive).
 - *18 / Mar / 2025:* Music Theory, Composition added.
 - *09 / Jan / 2026:* Commutative Algebra added.
+- *12 / Jan / 2026:* Added to Algebraic Number Theory, and Number Theory.
 
 ## Table of Content
 - [Mathematics](#mathematics)
@@ -110,12 +111,16 @@ As the title says! recently, I become deep into special areas, and references be
 
 ### Number Theory
 - *Serre, J. P.* A Course in Arithmetic[^jps]. [[Online](https://link.springer.com/book/10.1007/978-1-4684-9884-4)]
+- *Ribenboim, P.* Fermat’s Last Theorem: Basic Tools. [[Online](https://bookstore.ams.org/mmono-243)]
+- *Ribenboim, P.* Fermat’s Last Theorem: The Proof. [[Online](https://bookstore.ams.org/view?ProductCode=MMONO%2F245)]
 
 #### Analytic Number Theory
 - *Lang, S.* Elliptic Functions. [[Online](https://link.springer.com/book/10.1007/978-1-4612-4752-4)]
 
 #### Algebraic Number Theory
 - *Lang, S.* Algebraic Number Theory. [[Online](https://link.springer.com/book/10.1007/978-1-4612-0853-2)]
+- *Hardy, G. H., and Wright, E. M.* An Introduction to the Theory of Numbers. [[PDF](https://blngcc.wordpress.com/wp-content/uploads/2008/11/hardy-wright-theory_of_numbers.pdf)]
+- *Ono, T.* An Introduction to Algebraic Number Theory. [[Online](https://link.springer.com/book/10.1007/978-1-4613-0573-6)]
 
 #### Geometric Number Theory
 - *MIT Course.* Introduction To Arithmetic Geometry. [[Online](https://ocw.mit.edu/courses/18-782-introduction-to-arithmetic-geometry-fall-2013/)]
