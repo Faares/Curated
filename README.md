@@ -9,7 +9,7 @@ As the title says! recently, I become deep into special areas, and references be
 
 ## Changelog
 - *22 / Jul / 2023:* I uploaded some references [here](https://storage.faares.com/). Consider it as a backup.
-- *14 / Aug / 2023:* You can sponsor the project to maintain & continue gathering the resources from [here](https://finance.modn.tech/DGive).
+- *14 / Aug / 2023:* You can sponsor the project to maintain & continue gathering the resources from [here](https://www.paypal.com/ncp/payment/NUEWMJBK6T5Y8).
 - *18 / Mar / 2025:* Music Theory, Composition added.
 - *09 / Jan / 2026:* Commutative Algebra added.
 - *12 / Jan / 2026:* Added to Algebraic Number Theory, and Number Theory.
