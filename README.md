@@ -13,7 +13,7 @@ As the title says! recently, I become deep into special areas, and references be
 - *18 / Mar / 2025:* Music Theory, Composition added.
 - *09 / Jan / 2026:* Commutative Algebra added.
 - *12 / Jan / 2026:* Added to Algebraic Number Theory, and Number Theory.
-
+- *1 / Feb / 2026:* You can now donate by Bitcoin: `bitcoin:bc1qwam56zxa5lpt2wflu7hmfw8nxwelygvagq6sm8?message=Curated`.
 ## Table of Content
 - [Mathematics](#mathematics)
   - [Mathematician's Work & Career](#mathematicians-work--career)
